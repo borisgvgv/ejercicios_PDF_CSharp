@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/2193.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/2193.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/2193.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/2193.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/2193.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/2193/bin/Debug/net7.0/2193
+/workspaces/ejercicios_PDF_CSharp/2193/bin/Debug/net7.0/2193.deps.json
+/workspaces/ejercicios_PDF_CSharp/2193/bin/Debug/net7.0/2193.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/2193/bin/Debug/net7.0/2193.dll
+/workspaces/ejercicios_PDF_CSharp/2193/bin/Debug/net7.0/2193.pdb
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/2193.dll
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/refint/2193.dll
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/2193.pdb
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/2193.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/2193/obj/Debug/net7.0/ref/2193.dll
