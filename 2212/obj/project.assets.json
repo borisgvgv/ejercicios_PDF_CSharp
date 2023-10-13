@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/2211_while/2211_while.csproj",
-      "projectName": "2211_while",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/2211_while/2211_while.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/2212/2212.csproj",
+      "projectName": "2212",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/2212/2212.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/2211_while/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/2212/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
