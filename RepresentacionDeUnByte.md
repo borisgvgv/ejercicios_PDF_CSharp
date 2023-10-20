@@ -1,6 +1,13 @@
 # Bytes
 
-    Un byte es un conjunto de 8 bits. Cada bit puede tener dos valores posibles: 0 o 1. Por lo tanto, un byte puede representar 2^8 = 256 valores diferentes en total. Si deseas saber cuántos de estos valores son positivos, debes considerar que un byte generalmente se interpreta en formato binario, y el valor más bajo es 00000000 (0 en decimal) y el valor más alto es 11111111 (255 en decimal). Por lo tanto, hay 256 valores en total, y 128 de ellos son positivos (del 0 al 127), mientras que los otros 128 son negativos o se interpretan de otra manera dependiendo del contexto (del -128 al -1).
+    Un byte es un conjunto de 8 bits. Cada bit puede tener dos valores posibles: 0 o 1.
+     Por lo tanto, un byte puede representar 2^8 = 256 valores diferentes en total.
+    Si deseas saber cuántos de estos valores son positivos, debes considerar
+    que un byte generalmente se interpreta en formato binario,
+    y el valor más bajo es 00000000 (0 en decimal)
+    y el valor más alto es 11111111 (255 en decimal).
+    Por lo tanto, hay 256 valores en total, y 128 de ellos son positivos (del 0 al 127),
+    mientras que los otros 128 son negativos o se interpretan de otra manera dependiendo del contexto (del -128 al -1).
 
     00000000 - 0
     00000001 - 1
