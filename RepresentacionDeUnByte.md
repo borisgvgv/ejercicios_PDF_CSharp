@@ -9,10 +9,9 @@
     Por lo tanto, hay 256 valores en total, 
     y 128 de ellos son positivos (del 0 al 127),
     mientras que los otros 128 son negativos
-     o se interpretan de otra manera dependiendo del contexto (del -128 al -1).
+    o se interpretan de otra manera dependiendo del contexto (del -128 al -1).
 
-
-// https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-un-bit/
+     https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-un-bit/
 
 
     00000000 - 0
