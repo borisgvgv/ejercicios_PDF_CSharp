@@ -10,7 +10,7 @@ class E3111
     static void Main()
     {
 
-       long producto = 1000000;
+       long producto = 1.000.000;
 
         producto = producto * producto;
         Console.WriteLine(producto);
