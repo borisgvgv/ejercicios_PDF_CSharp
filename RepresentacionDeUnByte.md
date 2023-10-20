@@ -11,6 +11,10 @@
     mientras que los otros 128 son negativos
      o se interpretan de otra manera dependiendo del contexto (del -128 al -1).
 
+
+// https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-un-bit/
+
+
     00000000 - 0
     00000001 - 1
     00000010 - 2
