@@ -30,7 +30,7 @@ class Ejemplo_04_04_07a
         Console.WriteLine("Si no se indica un delimitador en Split, se dará por sentado que sea desea partir empleando espacios");
 
         string ejemplo3 = "uno dos tres cuatro";
-        string[] ejemploPartido3 = ejemplo.Split();
+        string[] ejemploPartido3 = ejemplo3.Split();
         for (int i = 0; i < ejemploPartido3.Length; i++)
             Console.WriteLine("Fragmento {0} = {1}",
             i, ejemploPartido3[i]);
