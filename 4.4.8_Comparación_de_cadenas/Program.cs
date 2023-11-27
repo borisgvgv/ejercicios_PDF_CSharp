@@ -32,5 +32,6 @@ class Ejemplo_04_04_08a
             Console.WriteLine("Es menor que hola (mays o mins 2)");
         else
             Console.WriteLine("Es hola (mays o mins 2)");
+            
     }
 }
