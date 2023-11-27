@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "64uxBnuZnD8+WlLVhN7/DG84En+4LLLi3auMKxkEP9/eEwpDiXg18+Rx1JyKoitbVz5vwSPRBQwofilER4HayQ==",
+  "dgSpecHash": "bo/g1TVltXdv/lrkvC8hyH09nEXtAOmA83GI8n1UmdqucL1CIKEbD6QVomxW1V8ThhGYfjfKn33JbtF7GyRUJQ==",
   "success": true,
-  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/string_Ejemplo/string_Ejemplo.csproj",
+  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/string_Ejemplo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

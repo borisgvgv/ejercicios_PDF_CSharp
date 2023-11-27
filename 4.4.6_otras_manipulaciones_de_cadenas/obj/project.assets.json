@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/string_Ejemplo/string_Ejemplo.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/string_Ejemplo.csproj",
       "projectName": "string_Ejemplo",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/string_Ejemplo/string_Ejemplo.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/string_Ejemplo.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/string_Ejemplo/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
