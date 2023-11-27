@@ -41,7 +41,7 @@ class Ejemplo_04_04_07a
         Console.WriteLine();
 
         string ejemplo4 = "uno dos tres cuatro";
-        string[] ejemploPartido4 = ejemplo.Split();
+        string[] ejemploPartido4 = ejemplo4.Split();
         Console.WriteLine(String.Join(", ", ejemploPartido4));
         Console.WriteLine();
     }
