@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/bin/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/bin/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.deps.json
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/bin/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/bin/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.dll
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/bin/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.pdb
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.dll
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/refint/4.4.7_Descomponer_una_cadena_en_fragmentos.dll
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.pdb
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/4.4.7_Descomponer_una_cadena_en_fragmentos.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/Debug/net7.0/ref/4.4.7_Descomponer_una_cadena_en_fragmentos.dll

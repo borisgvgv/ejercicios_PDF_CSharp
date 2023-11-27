@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/bin/Debug/net7.0/4.4.8_Comparación_de_cadenas
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/bin/Debug/net7.0/4.4.8_Comparación_de_cadenas.deps.json
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/bin/Debug/net7.0/4.4.8_Comparación_de_cadenas.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/bin/Debug/net7.0/4.4.8_Comparación_de_cadenas.dll
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/bin/Debug/net7.0/4.4.8_Comparación_de_cadenas.pdb
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/4.4.8_Comparación_de_cadenas.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/4.4.8_Comparación_de_cadenas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/4.4.8_Comparación_de_cadenas.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/4.4.8_Comparación_de_cadenas.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/4.4.8_Comparación_de_cadenas.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/4.4.8_Comparación_de_cadenas.dll
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/refint/4.4.8_Comparación_de_cadenas.dll
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/4.4.8_Comparación_de_cadenas.pdb
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/4.4.8_Comparación_de_cadenas.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/4.4.8_Comparación_de_cadenas/obj/Debug/net7.0/ref/4.4.8_Comparación_de_cadenas.dll

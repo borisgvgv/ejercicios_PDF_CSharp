@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/prueba/bin/Debug/net7.0/prueba
+/workspaces/ejercicios_PDF_CSharp/prueba/bin/Debug/net7.0/prueba.deps.json
+/workspaces/ejercicios_PDF_CSharp/prueba/bin/Debug/net7.0/prueba.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/prueba/bin/Debug/net7.0/prueba.dll
+/workspaces/ejercicios_PDF_CSharp/prueba/bin/Debug/net7.0/prueba.pdb
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/prueba.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/prueba.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/prueba.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/prueba.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/prueba.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/prueba.dll
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/refint/prueba.dll
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/prueba.pdb
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/prueba.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/prueba/obj/Debug/net7.0/ref/prueba.dll

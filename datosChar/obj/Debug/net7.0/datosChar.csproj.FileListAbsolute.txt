@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/datosChar.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/datosChar.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/datosChar.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/datosChar.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/datosChar.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/datosChar/bin/Debug/net7.0/datosChar
+/workspaces/ejercicios_PDF_CSharp/datosChar/bin/Debug/net7.0/datosChar.deps.json
+/workspaces/ejercicios_PDF_CSharp/datosChar/bin/Debug/net7.0/datosChar.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/datosChar/bin/Debug/net7.0/datosChar.dll
+/workspaces/ejercicios_PDF_CSharp/datosChar/bin/Debug/net7.0/datosChar.pdb
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/datosChar.dll
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/refint/datosChar.dll
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/datosChar.pdb
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/datosChar.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/datosChar/obj/Debug/net7.0/ref/datosChar.dll

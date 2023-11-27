@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/trabajoConArrays2.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/trabajoConArrays2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/trabajoConArrays2.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/trabajoConArrays2.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/trabajoConArrays2.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/bin/Debug/net7.0/trabajoConArrays2
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/bin/Debug/net7.0/trabajoConArrays2.deps.json
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/bin/Debug/net7.0/trabajoConArrays2.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/bin/Debug/net7.0/trabajoConArrays2.dll
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/bin/Debug/net7.0/trabajoConArrays2.pdb
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/trabajoConArrays2.dll
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/refint/trabajoConArrays2.dll
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/trabajoConArrays2.pdb
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/trabajoConArrays2.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/trabajoConArrays2/obj/Debug/net7.0/ref/trabajoConArrays2.dll

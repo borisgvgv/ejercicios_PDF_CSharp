@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/unicode/bin/Debug/net7.0/unicode
+/workspaces/ejercicios_PDF_CSharp/unicode/bin/Debug/net7.0/unicode.deps.json
+/workspaces/ejercicios_PDF_CSharp/unicode/bin/Debug/net7.0/unicode.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/unicode/bin/Debug/net7.0/unicode.dll
+/workspaces/ejercicios_PDF_CSharp/unicode/bin/Debug/net7.0/unicode.pdb
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/unicode.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/unicode.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/unicode.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/unicode.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/unicode.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/unicode.dll
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/refint/unicode.dll
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/unicode.pdb
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/unicode.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/unicode/obj/Debug/net7.0/ref/unicode.dll

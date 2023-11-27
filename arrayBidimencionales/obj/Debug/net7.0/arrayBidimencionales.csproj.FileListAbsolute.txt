@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/arrayBidimencionales.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/arrayBidimencionales.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/arrayBidimencionales.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/arrayBidimencionales.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/arrayBidimencionales.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/bin/Debug/net7.0/arrayBidimencionales
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/bin/Debug/net7.0/arrayBidimencionales.deps.json
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/bin/Debug/net7.0/arrayBidimencionales.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/bin/Debug/net7.0/arrayBidimencionales.dll
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/bin/Debug/net7.0/arrayBidimencionales.pdb
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/arrayBidimencionales.dll
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/refint/arrayBidimencionales.dll
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/arrayBidimencionales.pdb
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/arrayBidimencionales.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/arrayBidimencionales/obj/Debug/net7.0/ref/arrayBidimencionales.dll

@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/incremento_decremento.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/incremento_decremento.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/incremento_decremento.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/incremento_decremento.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/incremento_decremento.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/bin/Debug/net7.0/incremento_decremento
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/bin/Debug/net7.0/incremento_decremento.deps.json
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/bin/Debug/net7.0/incremento_decremento.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/bin/Debug/net7.0/incremento_decremento.dll
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/bin/Debug/net7.0/incremento_decremento.pdb
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/incremento_decremento.dll
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/refint/incremento_decremento.dll
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/incremento_decremento.pdb
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/incremento_decremento.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/incremento_decremento/obj/Debug/net7.0/ref/incremento_decremento.dll
