@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/4410_cadenas_repetitivas.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/4410_cadenas_repetitivas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/4410_cadenas_repetitivas.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/4410_cadenas_repetitivas.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/4410_cadenas_repetitivas.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/bin/Debug/net7.0/4410_cadenas_repetitivas
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/bin/Debug/net7.0/4410_cadenas_repetitivas.deps.json
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/bin/Debug/net7.0/4410_cadenas_repetitivas.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/bin/Debug/net7.0/4410_cadenas_repetitivas.dll
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/bin/Debug/net7.0/4410_cadenas_repetitivas.pdb
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/4410_cadenas_repetitivas.dll
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/refint/4410_cadenas_repetitivas.dll
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/4410_cadenas_repetitivas.pdb
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/4410_cadenas_repetitivas.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/449.10_cadenas_repetitivas/obj/Debug/net7.0/ref/4410_cadenas_repetitivas.dll

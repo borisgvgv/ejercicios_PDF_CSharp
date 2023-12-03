@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "446_otras_manipulaciones_de_cadenas/1.0.0": {
+        "runtime": {
+          "446_otras_manipulaciones_de_cadenas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "446_otras_manipulaciones_de_cadenas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

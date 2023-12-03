@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "449_una_cadena_modificable_StringBuilder/1.0.0": {
+        "runtime": {
+          "449_una_cadena_modificable_StringBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "449_una_cadena_modificable_StringBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
