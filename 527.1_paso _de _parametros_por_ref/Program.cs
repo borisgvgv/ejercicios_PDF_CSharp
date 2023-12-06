@@ -26,7 +26,12 @@ class Ejemplo_05_07_02a
         int a = y;
         int b = x;
         Console.WriteLine("Ahora a es  {0}", a);
-        Console.WriteLine("Ahora b es  {0}", b);
+        Console.WriteLine("Ahora b es  {0}", b);        
+    }
+
+    static void Multiplicar(ref int h, ref int j){
+        int multiplicacion = h*j;
+        Console.WriteLine("La multiplicación es {0}", multiplicacion );
     }
 
     static void Main()
@@ -39,5 +44,8 @@ class Ejemplo_05_07_02a
         int num1 = 5, num2 = 7;
         NumeroMayor(ref num1, ref num2);
         Intercambiar(ref num1, ref num2);
+        Multiplicar(ref num1, ref num2);
+
     }
+
 }
