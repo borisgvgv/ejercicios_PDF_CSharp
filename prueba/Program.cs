@@ -89,10 +89,12 @@ class ENprueba
 
         const int numeroDeCursos = 5000;
         string? opcion = "";
+        string? confirmacion = "";
         Curso[] cursos = new Curso[numeroDeCursos];
 
         int cantidadCursos = 0;
         int registro = 1;
+        int cantidadLineas = 0;
         //cursos[cantidadCursos].horasCurso = 10;
 
         do
@@ -162,33 +164,39 @@ class ENprueba
                 case "2":
                     Console.WriteLine("opcion 2: Ver cursos no terminados.");
                     Console.WriteLine(); //Salto de línea
-                    
-                   
-                        for (int i = 0; i < cantidadCursos; i++)
+
+
+                  do{
+                        for (int i = cantidadLineas; i < cantidadCursos; i++)
                         {
-                            if (!cursos[i].terminado)
+                            if ((!cursos[i].terminado) && (i <= cantidadLineas + 2))
                             {
                                 Console.WriteLine("Número de registro: {0}, Nombre del curso: {1}, Fecha de inicio: {2}, Horas de duración: {3}", cursos[i].registro, cursos[i].nombreCurso, cursos[i].fechaComienzo, cursos[i].horasCurso);
                                 Console.WriteLine("Estado: {0}", cursos[i].estadoDelCurso);
                                 Console.WriteLine(); //Salto de línea
-                                
+
                             }
-                            
+                            cantidadLineas ++;
                         }
-                    
-                    
+
+                         Console.Write("Siguiente o Enter para salir");
+                                string opcionVer = Console.ReadLine();
+                       
+                        
+                    } while (Console.ReadKey().Key != ConsoleKey.Enter);
+
                     break;
                 case "3":
                     Console.WriteLine("opcion 3: Marcar un curso como terminado.");
                     Console.WriteLine(); //Salto de línea
 
-                    string? confirmacion = "";
-                    Console.Write("Registro del curso a modificar: ");
-                    int cursoModificar = Convert.ToInt32(Console.ReadLine());
-                    cursoModificar--;
 
                     try
                     {
+                        Console.Write("Registro del curso a modificar: ");
+                        int cursoModificar = Convert.ToInt32(Console.ReadLine());
+                        cursoModificar--;
+
                         if ((cursos[cursoModificar].registro > 0) && (cursos[cursoModificar].registro <= cantidadCursos))
                         {
                             Console.WriteLine("Número de registro: {0}, Nombre del curso: {1}, Fecha de inicio: {2}, Horas de duración: {3}", cursos[cursoModificar].registro, cursos[cursoModificar].nombreCurso, cursos[cursoModificar].fechaComienzo, cursos[cursoModificar].horasCurso);
@@ -204,18 +212,20 @@ class ENprueba
 
                         }
 
+                        if (confirmacion == "si")
+                        {
+
+                            cursos[cursoModificar].terminado = true;
+
+                        }
                     }
                     catch (IndexOutOfRangeException)
                     {
                         Console.WriteLine("No existente");
                     }
-
-
-                    if (confirmacion == "si")
+                    catch (FormatException)
                     {
-
-                        cursos[cursoModificar].terminado = true;
-
+                        Console.WriteLine("Debes marcar el registro del curso");
                     }
 
 

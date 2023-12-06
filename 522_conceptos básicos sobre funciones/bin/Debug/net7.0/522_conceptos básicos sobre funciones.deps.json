@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "522_conceptos básicos sobre funciones/1.0.0": {
+        "runtime": {
+          "522_conceptos básicos sobre funciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "522_conceptos básicos sobre funciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

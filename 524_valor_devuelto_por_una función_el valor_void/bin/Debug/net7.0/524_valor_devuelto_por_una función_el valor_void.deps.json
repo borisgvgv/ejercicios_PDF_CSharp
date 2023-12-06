@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "524_valor_devuelto_por_una función_el valor_void/1.0.0": {
+        "runtime": {
+          "524_valor_devuelto_por_una función_el valor_void.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "524_valor_devuelto_por_una función_el valor_void/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
