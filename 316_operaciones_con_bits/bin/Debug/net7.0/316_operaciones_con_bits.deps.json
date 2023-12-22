@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "316_operaciones_con_bits/1.0.0": {
+        "runtime": {
+          "316_operaciones_con_bits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "316_operaciones_con_bits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

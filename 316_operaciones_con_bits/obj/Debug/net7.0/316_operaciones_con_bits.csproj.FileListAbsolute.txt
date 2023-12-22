@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/bin/Debug/net7.0/316_operaciones_con_bits
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/bin/Debug/net7.0/316_operaciones_con_bits.deps.json
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/bin/Debug/net7.0/316_operaciones_con_bits.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/bin/Debug/net7.0/316_operaciones_con_bits.dll
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/bin/Debug/net7.0/316_operaciones_con_bits.pdb
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/316_operaciones_con_bits.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/316_operaciones_con_bits.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/316_operaciones_con_bits.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/316_operaciones_con_bits.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/316_operaciones_con_bits.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/316_operaciones_con_bits.dll
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/refint/316_operaciones_con_bits.dll
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/316_operaciones_con_bits.pdb
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/316_operaciones_con_bits.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/316_operaciones_con_bits/obj/Debug/net7.0/ref/316_operaciones_con_bits.dll

@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/bin/Debug/net7.0/574_tryParse
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/bin/Debug/net7.0/574_tryParse.deps.json
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/bin/Debug/net7.0/574_tryParse.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/bin/Debug/net7.0/574_tryParse.dll
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/bin/Debug/net7.0/574_tryParse.pdb
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/574_tryParse.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/574_tryParse.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/574_tryParse.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/574_tryParse.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/574_tryParse.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/574_tryParse.dll
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/refint/574_tryParse.dll
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/574_tryParse.pdb
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/574_tryParse.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/574_tryParse/obj/Debug/net7.0/ref/574_tryParse.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "312_conversiones_de_cadena_a_entero/1.0.0": {
+        "runtime": {
+          "312_conversiones_de_cadena_a_entero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "312_conversiones_de_cadena_a_entero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

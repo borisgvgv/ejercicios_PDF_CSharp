@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "593_funciones_lambda_o_anonimas/1.0.0": {
+        "runtime": {
+          "593_funciones_lambda_o_anonimas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "593_funciones_lambda_o_anonimas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
