@@ -6,8 +6,7 @@ class Ejemplo_05_10a
 {
     static int Main(string[] args)
     {
-
-Console.WriteLine("Parámetros: {0}", args.Length);
+        Console.WriteLine("Parámetros: {0}", args.Length);
         for (int i = 0; i < args.Length; i++)
         {
             Console.WriteLine("El parámetro {0} es: {1}",
@@ -19,6 +18,5 @@ Console.WriteLine("Parámetros: {0}", args.Length);
             Environment.Exit(1);
         }
         return 0;
-
     }
 }

@@ -12,7 +12,7 @@ class Ejemplo_04_04_07a
         Console.WriteLine();
 
         string ejemplo = "uno dos tres cuatro";
-        char delimitador = ' ';//No es indosspensable, hace lo mismo si no le pasamos nada al Split
+        char delimitador = ' ';//No es indispensable, hace lo mismo si no le pasamos nada al Split
 
         string[] ejemploPartido = ejemplo.Split(delimitador);
         for (int i = 0; i < ejemploPartido.Length; i++)
