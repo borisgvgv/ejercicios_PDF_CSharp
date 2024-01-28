@@ -19,6 +19,13 @@ class Ejemplo_04_04_07a
             Console.WriteLine("Fragmento {0} = {1}",
             i, ejemploPartido[i]);
 
+        
+
+        string[] ejemploPartido1 =ejemplo.Split();
+        
+            Console.Write(String.Join(" ", ejemploPartido));// JOIN junta con lo que le indiquemos en el parametro uno
+       
+
         Console.WriteLine();
         Console.WriteLine("Ejemplo 2  Split-----------------------------");
         Console.WriteLine();

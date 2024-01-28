@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/bin/Debug/net7.0/570.2_pasoDeParametrosPorReferencia
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/bin/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.deps.json
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/bin/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/bin/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.dll
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/bin/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.pdb
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.dll
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/refint/570.2_pasoDeParametrosPorReferencia.dll
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.pdb
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/570.2_pasoDeParametrosPorReferencia.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/570.2_pasoDeParametrosPorReferencia/obj/Debug/net7.0/ref/570.2_pasoDeParametrosPorReferencia.dll

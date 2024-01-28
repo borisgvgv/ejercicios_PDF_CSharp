@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "570.2_pasoDeParametrosPorReferencia/1.0.0": {
+        "runtime": {
+          "570.2_pasoDeParametrosPorReferencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "570.2_pasoDeParametrosPorReferencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

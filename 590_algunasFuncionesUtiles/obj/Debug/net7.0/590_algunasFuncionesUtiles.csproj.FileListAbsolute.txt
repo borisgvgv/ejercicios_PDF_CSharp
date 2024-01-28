@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/bin/Debug/net7.0/590_algunasFuncionesUtiles
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/bin/Debug/net7.0/590_algunasFuncionesUtiles.deps.json
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/bin/Debug/net7.0/590_algunasFuncionesUtiles.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/bin/Debug/net7.0/590_algunasFuncionesUtiles.dll
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/bin/Debug/net7.0/590_algunasFuncionesUtiles.pdb
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/590_algunasFuncionesUtiles.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/590_algunasFuncionesUtiles.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/590_algunasFuncionesUtiles.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/590_algunasFuncionesUtiles.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/590_algunasFuncionesUtiles.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/590_algunasFuncionesUtiles.dll
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/refint/590_algunasFuncionesUtiles.dll
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/590_algunasFuncionesUtiles.pdb
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/590_algunasFuncionesUtiles.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/590_algunasFuncionesUtiles/obj/Debug/net7.0/ref/590_algunasFuncionesUtiles.dll

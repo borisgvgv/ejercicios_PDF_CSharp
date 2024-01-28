@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/bin/Debug/net7.0/420_arrayBidimencionales
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/bin/Debug/net7.0/420_arrayBidimencionales.deps.json
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/bin/Debug/net7.0/420_arrayBidimencionales.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/bin/Debug/net7.0/420_arrayBidimencionales.dll
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/bin/Debug/net7.0/420_arrayBidimencionales.pdb
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/420_arrayBidimencionales.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/420_arrayBidimencionales.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/420_arrayBidimencionales.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/420_arrayBidimencionales.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/420_arrayBidimencionales.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/420_arrayBidimencionales.dll
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/refint/420_arrayBidimencionales.dll
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/420_arrayBidimencionales.pdb
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/420_arrayBidimencionales.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/obj/Debug/net7.0/ref/420_arrayBidimencionales.dll

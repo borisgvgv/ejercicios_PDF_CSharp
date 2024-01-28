@@ -26,17 +26,25 @@ programar así:
 using System;
 class Ejemplo_05_10a
 {
-    static long Factorial(int n)
+    public static int Fibonacci(int number)
     {
-        if (n == 1) // Aseguramos que termine (caso base)
+        if (number == 0)
+            return 0;
+        else if (number == 1)
             return 1;
-        return n * Factorial(n - 1); // Si no es 1, sigue la recursión
+        else
+            return Fibonacci(number - 1) + Fibonacci(number - 2);
     }
-    static void Main()
+
+    public static void Main()
     {
-        int num;
-        Console.WriteLine("Introduzca un número entero: ");
-        num = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Su factorial es: {0}", Factorial(num));
+        int number;
+
+        Console.Write("Enter a number: ");
+        number = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Fibonacci of {0} is {1}", number,
+         Fibonacci(n));
     }
+
 }

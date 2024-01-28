@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/ejercicios_PDF_CSharp/580_elOrdenNoImporta/580_elOrdenNoImporta.csproj": {}
+  },
+  "projects": {
+    "/workspaces/ejercicios_PDF_CSharp/580_elOrdenNoImporta/580_elOrdenNoImporta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/580_elOrdenNoImporta/580_elOrdenNoImporta.csproj",
+        "projectName": "580_elOrdenNoImporta",
+        "projectPath": "/workspaces/ejercicios_PDF_CSharp/580_elOrdenNoImporta/580_elOrdenNoImporta.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/ejercicios_PDF_CSharp/580_elOrdenNoImporta/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
