@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/bin/Debug/net7.0/592_FuncionesMatemáticas
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/bin/Debug/net7.0/592_FuncionesMatemáticas.deps.json
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/bin/Debug/net7.0/592_FuncionesMatemáticas.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/bin/Debug/net7.0/592_FuncionesMatemáticas.dll
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/bin/Debug/net7.0/592_FuncionesMatemáticas.pdb
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/592_FuncionesMatemáticas.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/592_FuncionesMatemáticas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/592_FuncionesMatemáticas.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/592_FuncionesMatemáticas.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/592_FuncionesMatemáticas.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/592_FuncionesMatemáticas.dll
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/refint/592_FuncionesMatemáticas.dll
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/592_FuncionesMatemáticas.pdb
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/592_FuncionesMatemáticas.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/592_FuncionesMatemáticas/obj/Debug/net7.0/ref/592_FuncionesMatemáticas.dll

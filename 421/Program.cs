@@ -5,14 +5,14 @@ que se ha introducido en cada uno de ellos.
 */
 
 using System;
-    class Program
+class Program
 {
     static void Main()
     {
 
         int longitud = 2;
         int[,] notas = new int[2, longitud];
-         int mayor =0;
+        int mayor = 0;
 
         for (int i = 0; i < 2; i++)
         {
@@ -21,7 +21,7 @@ using System;
                 Console.WriteLine("Introduce una nota");
                 int nota = Convert.ToInt32(Console.ReadLine());
 
-                notas[i,j]= nota;
+                notas[i, j] = nota;
             }
         }
 
@@ -29,7 +29,7 @@ using System;
         {
             for (int j = 0; j < longitud; j++)
             {
-                Console.WriteLine($"Grupo {i+1}.{j+1} = {notas[i,j]}");
+                Console.WriteLine($"Grupo {i + 1}.{j + 1} = {notas[i, j]}");
             }
         }
 
@@ -37,14 +37,16 @@ using System;
         {
             for (int j = 0; j < longitud; j++)
             {
-                if(notas[i,0] > notas[i,j]){
-                   mayor = notas[i,j];
-                }else
-                mayor = notas[i,j];   
-              
+             
+                if (mayor < notas[i, j] )
+                {
+                    mayor = notas[i, j];
+                }
+                
+
             }
         }
-          Console.WriteLine($"El numero mayor es {mayor}");
+        Console.WriteLine($"El numero mayor es {mayor}");
 
     }
 }

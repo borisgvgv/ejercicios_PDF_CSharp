@@ -1,46 +1,32 @@
 ﻿using System;
-using System.Data;
+
 class Program
 {
     static void Main()
     {
-        Console.WriteLine("Introduce un número");
-        int numero = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Introduce un el número como texto");
-        string textoNum = Console.ReadLine();
+        // Crear una matriz bidimensional
+        int[,] matriz = {
+            {1, 2, 3, 4},
+            {5, 6, 7, 8},
+            {9, 10, 11, 12}
+        };
 
-        Funcion(numero, textoNum);
+        // Obtener la longitud de la primera dimensión (filas)
+        int filas = matriz.GetLength(0);
 
-        Console.WriteLine(" Hagamos un cuadrado");
-        Console.Write(" alto: ");
-        int alto = Convert.ToInt32(Console.ReadLine());
-        Console.Write(" ancho: ");
-        int ancho = Convert.ToInt32(Console.ReadLine());
-        DibujarCuadrado(alto, ancho);
+        // Obtener la longitud de la segunda dimensión (columnas)
+        int columnas = matriz.GetLength(1);
 
+        // Mostrar las dimensiones de la matriz
+        Console.WriteLine("Filas: " + filas);
+        Console.WriteLine("Columnas: " + columnas);
 
-
-    }
-    static void Funcion(int numero, string texto)
-    {
-        Console.WriteLine("número: {0} y Texto del número: {1} ", numero, texto);
-        Console.WriteLine("{0} {1} ", numero, texto);
-    }
-    static void DibujarCuadrado(int al, int an)
-    {
-        for (int i = 0; i <= al; i++)
+        // Acceder a los elementos de la matriz
+        for (int i = 0; i < filas; i++)
         {
-            for (int j = 0; j <= an; j++)
+            for (int j = 0; j < columnas; j++)
             {
-
-                if (((i == 0) || (i == al))||((j == 0) || (j == an)))
-                {
-                    Console.Write("*");
-                }
-                else{
-                    Console.Write(" ");
-                }
-
+                Console.Write(matriz[i, j] + " ");
             }
             Console.WriteLine();
         }

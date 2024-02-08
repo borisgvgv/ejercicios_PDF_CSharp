@@ -11,9 +11,75 @@ class Program
 {
     static void Main()
     {
+
+        int alto = 24;
+        int ancho = 79;
+        int cantidad = 100;
+
+        //Creamos array de dos dimenciones con el alto y ancho de la pantalla
+        char[,] pantalla = new char[alto, ancho];
+
+        //LLamada a la función que añade espacios a los valores del array pantalla
+        Pantalla(pantalla);
+        //LLamada a la función que dibuja los asteriscos aleatoriamente
+        AsteriscosAleatorios(pantalla, cantidad);
+        //LLamada a la función que dibuja los espacios en consola
+        DibujarPantalla(pantalla);
+        
+    }
+
+    //Función que añade espacios a los valores del array pantalla
+    static void Pantalla(char[,] pantalla)
+    {
+        for (int i = 0; i < pantalla.GetLength(0); i++)
+        {
+            for (int j = 0; j < pantalla.GetLength(1); j++)
+            {
+                pantalla[i, j] = ' ';
+            }
+        }
+    }
+
+    //Función que crea los asteriscos en posiciones aleatorias
+    static void AsteriscosAleatorios(char[,] pantalla, int cantidad)
+    {
+        Random random = new Random();
+
+        for (int i = 0; i < cantidad; i++)
+        {
+            int fila = random.Next(pantalla.GetLength(0));
+            int columna = random.Next(pantalla.GetLength(1));
+
+            pantalla[fila, columna] = '*';
+        }
+    }
+
+    //Función que dibuja los espacios en consola
+    static void DibujarPantalla(char[,] pantalla)
+    {
+        for (int i = 0; i < pantalla.GetLength(0); i++)
+        {
+            for (int j = 0; j < pantalla.GetLength(1); j++)
+            {
+                Console.Write(pantalla[i, j]);
+            }
+            Console.WriteLine();
+        }
+    }
+
+}
+
+
+
+
+/*
+
+ static void Main()
+    {
         // Tamaño de la pantalla
         int alto = 24;
         int ancho = 79;
+
 
         // Crear el array de dos dimensiones para representar la pantalla
         char[,] pantalla = new char[alto, ancho];
@@ -66,62 +132,7 @@ class Program
             Console.WriteLine();
         }
     }
-}
 
+    
 
-
-
-
-
-
-
-
-
-/*
-static void DibujarEstrellas(int repeticiones, int alto, int ancho){
-        
-        
-        Random coordenadas = new Random();
-        int x, y;
-        
-       
-        for (int p = 0; p < repeticiones; p++)
-        {
-
-            x = coordenadas.Next(0, alto);
-            y = coordenadas.Next(0, ancho);
-
-
-            for (int i = 0; i <= x; i++)
-            {
-                if (i != x)
-                {
-                    Console.WriteLine(".");
-                }
-            }
-
-            for (int j = 0; j <= y; j++)
-            {
-                if (j != y)
-                {
-                    Console.Write(".");
-                }
-                else
-                {
-                    Console.WriteLine("*");
-                }
-
-            }
-        }
-}
-
-    static void Main()
-    {
-        int repeticiones = 5;
-        int alto = 5;
-        int ancho = 10;
-
-        DibujarEstrellas(repeticiones, alto, ancho);
-
-    }
 */
