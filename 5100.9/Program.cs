@@ -49,31 +49,27 @@ class Program
 }
 
 /*
-Y supongamos que  i está inicializado en 7 (lo que significa que estamos comenzando la comparación desde la posición 7 de  mainString).
+    Inicialización: 
+        mainLengthes la longitud de la cuerda principal. 
+        subLengthes la longitud de la subcadena. 
+        El bucle exterior ( for) recorre cada posible posición inicial de la subcadena dentro de la cadena principal. 
 
-Desglose del bucle: 
+    Bucle exterior: 
+        for (int i = 0; i <= mainLength - subLength; i++): El bucle comienza desde el primer carácter de la cadena principal y sube hasta una posición donde los caracteres restantes de la cadena principal son iguales o más largos que la subcadena. 
 
-    Primera iteración (j = 0): 
-        i + j se traduce a  7 + 0, por lo que estamos comparando  mainString[7] con  subString[0]. 
-        mainString[7] es "w" y subString[0] también es "w".
-        Estas letras son iguales, por lo que no se ejecuta  break y continuamos a la siguiente iteración. 
+    Bucle interior (reemplazado con while): 
+        int j = 0;: Inicializa una variable ja cero, que representa el índice del carácter actual en la subcadena. 
+        while (j < subLength && mainString[i + j] == subString[j]): Este bucle comprueba si los caracteres en las posiciones actuales de la cadena principal y la subcadena coinciden.  El ciclo continúa mientras haya una coincidencia y jestá dentro de los límites de la subcadena. 
+        El j++La declaración incrementa el índice. jpara cada carácter coincidente. 
 
-    Segunda iteración (j = 1): 
-        i + j se traduce a  7 + 1, por lo que estamos comparando  mainString[8] con  subString[1]. 
-        mainString[8]es "o" y subString[1] también es "o". 
-        Estas letras son iguales, por lo que no se ejecuta  break y continuamos a la siguiente iteración. 
+    Verifique la coincidencia de subcadenas: 
+        if (j == subLength): Esta condición verifica si toda la subcadena coincide.  Si es así, significa que la subcadena se encuentra en la posición actual de la cadena principal. 
 
-    Tercera iteración (j = 2): 
-        i + j se traduce a  7 + 2, por lo que es mainString[9] con subString[2].
-        mainString[9]es "r" y subString[2] también es "r". 
-        Estas letras son iguales, por lo que no se ejecuta  break y continuamos a 
+    Resultado devuelto: 
+        return true;: Si toda la subcadena coincide en cualquier posición, el método devuelve trueindicando que la subcadena está presente en la cadena principal. 
 
-    Cuarta iteración (j = 3): 
-        i + j se traduce a  7 + 3, por lo que estamos comparando  mainString[10] con  subString[3]. 
-        mainString[10]es "l" y subString[3]es "d". 
-        Estas letras son diferentes, por lo que la condición mainString[i + j] != subString[j] se cumple y se ejecuta break, terminando el bucle.
+    Fin del método: 
+        Si el bucle externo se completa sin encontrar una coincidencia, el método devuelve false, lo que indica que la subcadena no está presente en la cadena principal. 
 
-Resultado final: 
-
-    En este caso, el bucle se interrumpe en la cuarta iteración porque se encontró una discrepanci mainString.
+Este enfoque evita el uso breakcontrolando la condición de terminación del bucle e incrementando el índice dentro del bucle. 
 */
