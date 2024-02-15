@@ -4,31 +4,20 @@ class Program
 {
     static void Main()
     {
-        // Crear una matriz bidimensional
-        int[,] matriz = {
-            {1, 2, 3, 4},
-            {5, 6, 7, 8},
-            {9, 10, 11, 12}
-        };
+        // Example with string
+        string sentence = "This is an example sentence.";
+        string searchWord = "example";
 
-        // Obtener la longitud de la primera dimensión (filas)
-        int filas = matriz.GetLength(0);
+        bool containsExample = sentence.Contains(searchWord, StringComparison.OrdinalIgnoreCase);//El StringComparison.OrdinalIgnoreCaseEl parámetro se utiliza para una comparación que no distingue entre mayúsculas y minúsculas.
 
-        // Obtener la longitud de la segunda dimensión (columnas)
-        int columnas = matriz.GetLength(1);
-
-        // Mostrar las dimensiones de la matriz
-        Console.WriteLine("Filas: " + filas);
-        Console.WriteLine("Columnas: " + columnas);
-
-        // Acceder a los elementos de la matriz
-        for (int i = 0; i < filas; i++)
+        if (containsExample)
         {
-            for (int j = 0; j < columnas; j++)
-            {
-                Console.Write(matriz[i, j] + " ");
-            }
-            Console.WriteLine();
+            Console.WriteLine($"The sentence contains the word '{searchWord}'.");
+        }
+        else
+        {
+            Console.WriteLine($"The sentence does not contain the word '{searchWord}'.");
         }
     }
 }
+
