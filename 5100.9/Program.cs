@@ -30,17 +30,18 @@ class Program
         int mainLength = mainString.Length;
         int subLength = subString.Length;
 
-        for (int i = 0; i <= mainLength - subLength; i++)
+        for (int i = 0; i < mainLength; i++)
         {
-            int j;
-            for (j = 0; j < subLength; j++)
+            int j = 0;
+
+            while (j < subLength && mainString[i + j] == subString[j])
             {
-                if (mainString[i + j] != subString[j])
-                    break;
+                j++;
             }
 
             if (j == subLength)
                 return true;
+
         }
 
         return false;
