@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6230/bin/Debug/net7.0/6230
+/workspaces/ejercicios_PDF_CSharp/6230/bin/Debug/net7.0/6230.deps.json
+/workspaces/ejercicios_PDF_CSharp/6230/bin/Debug/net7.0/6230.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6230/bin/Debug/net7.0/6230.dll
+/workspaces/ejercicios_PDF_CSharp/6230/bin/Debug/net7.0/6230.pdb
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/6230.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/6230.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/6230.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/6230.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/6230.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/6230.dll
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/refint/6230.dll
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/6230.pdb
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/6230.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6230/obj/Debug/net7.0/ref/6230.dll

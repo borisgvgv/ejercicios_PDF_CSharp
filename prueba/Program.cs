@@ -1,23 +1,45 @@
 ﻿using System;
+public class Persona{
 
-class Program
-{
-    static void Main()
+    string nombre = "";
+    int edad;
+
+    public string GetNombre()
     {
-        // Example with string
-        string sentence = "This is an example sentence.";
-        string searchWord = "example";
+        return nombre;
+    }
+    public void SetNombre(string nuevoNombre)
+    {
+        nombre = nuevoNombre;
+    }
 
-        bool containsExample = sentence.Contains(searchWord, StringComparison.OrdinalIgnoreCase);//El StringComparison.OrdinalIgnoreCaseEl parámetro se utiliza para una comparación que no distingue entre mayúsculas y minúsculas.
+    public int GetEdad()
+    {
+        return edad;
+    }
+    public void SetEdad(string nuevaEdad)
+    {
+        edad = nuevaEdad;
+    }
 
-        if (containsExample)
-        {
-            Console.WriteLine($"The sentence contains the word '{searchWord}'.");
-        }
-        else
-        {
-            Console.WriteLine($"The sentence does not contain the word '{searchWord}'.");
-        }
+    public void MostrarEstado(){
+        Console.WriteLine($"Nombre: {nombre}");
+        Console.WriteLine($"Edad: {edad}");
+    }
+
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        Persona p = new Persona();
+
+        p.nombre("Boris");
+        p.edad(46);
+
+        p.MostrarEstado();
+
     }
 }
 

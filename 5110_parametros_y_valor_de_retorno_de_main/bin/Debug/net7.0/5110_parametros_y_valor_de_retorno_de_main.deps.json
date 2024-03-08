@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "5110_parametros_y_valor_de_retorno_de_main/1.0.0": {
+        "runtime": {
+          "5110_parametros_y_valor_de_retorno_de_main.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5110_parametros_y_valor_de_retorno_de_main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
