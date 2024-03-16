@@ -1,45 +1,118 @@
 ﻿using System;
-public class Persona{
 
-    string nombre = "";
-    int edad;
+public class Coche
+{
+    string marca = "Pendiente";
+    string modelo = "Pendiente";
+    int cilindrada;
+    double potencia;
 
-    public string GetNombre()
+    public string GetMarca()
     {
-        return nombre;
+        return marca;
     }
-    public void SetNombre(string nuevoNombre)
+    public void SetMarca(string nuevaMarca)
     {
-        nombre = nuevoNombre;
+        marca = nuevaMarca;
     }
 
-    public int GetEdad()
+    public string GetModelo()
     {
-        return edad;
+        return modelo;
     }
-    public void SetEdad(string nuevaEdad)
+    public void SetModelo(string nuevoModelo)
     {
-        edad = nuevaEdad;
+        modelo = nuevoModelo;
     }
 
-    public void MostrarEstado(){
-        Console.WriteLine($"Nombre: {nombre}");
-        Console.WriteLine($"Edad: {edad}");
+    public int GetCilindrada()
+    {
+        return cilindrada;
+    }
+    public void SetCilindrada(int nuevaCilindrada)
+    {
+        cilindrada = nuevaCilindrada;
+    }
+    public double GetPotencia()
+    {
+        return potencia;
+    }
+    public void SetPotencia(double nuevaPotencia)
+    {
+        potencia = nuevaPotencia;
     }
 
+    public void MostrarCoche()
+    {
+        Console.WriteLine($"Marca: {marca}");
+        Console.WriteLine($"Modelo: {modelo}");
+        Console.WriteLine($"Cilindrada: {cilindrada}");
+        Console.WriteLine($"Potencia: {potencia}");
+    }
 }
 
-public class Program
+public class Coches
 {
     public static void Main()
     {
-        Persona p = new Persona();
+        bool salir = false;
+        int longitud = 0; // Inicializamos la longitud del array a 0
+        Coche[] ArrayCoche = new Coche[longitud];
 
-        p.nombre("Boris");
-        p.edad(46);
+        do
+        {
+            Console.WriteLine("Menú");
+            Console.WriteLine("a - añadir datos");
+            Console.WriteLine("m - mostrar datos");
+            Console.WriteLine("s - salir");
 
-        p.MostrarEstado();
+            char option = Convert.ToChar(Console.ReadLine());
 
+            switch (option)
+            {
+                case 'a':
+                    // Incrementamos la longitud del array antes de añadir un nuevo coche
+                    //longitud++; // Esto da error
+                    //ArrayCoche[longitud] = ArrayCoche[longitud + 1]; // Esto da error
+
+                    //Forma correcta usando el método estático Array.Resize
+                    Array.Resize(ref ArrayCoche, longitud + 1);
+                    ArrayCoche[longitud] = new Coche();
+
+                    Console.WriteLine("Marca:");
+                    string marc = Console.ReadLine();
+                    ArrayCoche[longitud].SetMarca(marc);
+
+                    Console.WriteLine("Modelo:");
+                    string mod = Console.ReadLine();
+                    ArrayCoche[longitud].SetModelo(mod);
+
+                    Console.WriteLine("Cilindrada:");
+                    int cilind = Convert.ToInt32(Console.ReadLine());
+                    ArrayCoche[longitud].SetCilindrada(cilind);
+
+                    Console.WriteLine("Potencia:");
+                    double pot = Convert.ToDouble(Console.ReadLine());
+                    ArrayCoche[longitud].SetPotencia(pot);
+
+                    longitud++; // Incrementamos la longitud después de añadir un nuevo coche
+                    break;
+
+                case 'm':
+                    for (int i = 0; i < longitud; i++)
+                    {
+                        ArrayCoche[i].MostrarCoche();
+                    }
+                    break;
+
+                case 's':
+                    salir = true;
+                    break;
+
+                default:
+                    Console.WriteLine("Opción no válida.");
+                    break;
+            }
+        } while (salir != true);
     }
 }
-
