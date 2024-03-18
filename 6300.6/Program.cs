@@ -1,53 +1,13 @@
 ﻿using System;
 
-class Nave
-{
-    private int x;
-    private int y;
-
-    public int X
-    {
-        get { return x; }
-        set
-        {
-            if (value >= 0 && value <= 1023)
-            {
-                x = value;
-            }
-            else
-            {
-                throw new ArgumentOutOfRangeException("X debe estar entre 0 y 1023.");
-            }
-        }
-    }
-
-    public int Y
-    {
-        get { return y; }
-        set
-        {
-            if (value >= 0 && value <= 767)
-            {
-                y = value;
-            }
-            else
-            {
-                throw new ArgumentOutOfRangeException("Y debe estar entre 0 y 767.");
-            }
-        }
-    }
-
-    public Nave(int x, int y)
-    {
-        X = x;
-        Y = y;
-    }
-}
-
 class Program
 {
     static void Main(string[] args)
     {
+
+        //Declaración de métodos
+        Juego juego = new Juego();
+
         // Ejemplo de uso de la clase Nave
         try
         {
@@ -58,5 +18,27 @@ class Program
         {
             Console.WriteLine(ex.Message);
         }
+
+
+        try
+        {
+
+            NaveII miNaveII = new NaveII(612, 1000); // Crear una nave en el centro de la pantalla
+
+            //miNaveII.SetNaveII(612,484);
+            //miNaveII.LanzarNaveII();
+            Console.WriteLine("Posición de la naveII: X = {0}, Y = {1}", miNaveII.J, miNaveII.K);
+
+
+        }
+        catch (ArgumentOutOfRangeException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+
+        //Lanzar juego
+        juego.Espacio();
+
+
     }
 }
