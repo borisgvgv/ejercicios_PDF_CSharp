@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/432_ArrayDeStruct.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/432_ArrayDeStruct.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/432_ArrayDeStruct.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/432_ArrayDeStruct.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/432_ArrayDeStruct.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/bin/Debug/net7.0/432_ArrayDeStruct
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/bin/Debug/net7.0/432_ArrayDeStruct.deps.json
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/bin/Debug/net7.0/432_ArrayDeStruct.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/bin/Debug/net7.0/432_ArrayDeStruct.dll
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/bin/Debug/net7.0/432_ArrayDeStruct.pdb
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/432_ArrayDeStruct.dll
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/refint/432_ArrayDeStruct.dll
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/432_ArrayDeStruct.pdb
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/432_ArrayDeStruct.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/Debug/net7.0/ref/432_ArrayDeStruct.dll

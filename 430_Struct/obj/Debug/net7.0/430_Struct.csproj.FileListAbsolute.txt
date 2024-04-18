@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/430_Struct.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/430_Struct.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/430_Struct.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/430_Struct.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/430_Struct.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/430_Struct/bin/Debug/net7.0/430_Struct
+/workspaces/ejercicios_PDF_CSharp/430_Struct/bin/Debug/net7.0/430_Struct.deps.json
+/workspaces/ejercicios_PDF_CSharp/430_Struct/bin/Debug/net7.0/430_Struct.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/430_Struct/bin/Debug/net7.0/430_Struct.dll
+/workspaces/ejercicios_PDF_CSharp/430_Struct/bin/Debug/net7.0/430_Struct.pdb
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/430_Struct.dll
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/refint/430_Struct.dll
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/430_Struct.pdb
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/430_Struct.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/430_Struct/obj/Debug/net7.0/ref/430_Struct.dll

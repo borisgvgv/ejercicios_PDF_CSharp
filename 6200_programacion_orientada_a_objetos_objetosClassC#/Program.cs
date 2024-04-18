@@ -1,10 +1,12 @@
-﻿using System;
+﻿
+using System;
+using System.Drawing;
 public class Puerta
 {
 
-    int alto;
-    int ancho;
-    int color;
+    int alto = 100;
+    int ancho = 100;
+    Color color;
     bool abierta;
     public void Abrir()
     {
@@ -23,12 +25,20 @@ public class Puerta
         ancho = nuevoValor;
     }
 
+    public Color GetColor()
+    {
+        return color = Color.FromArgb(255, 133, 0);
+    }
+    
+
     public void MostrarEstado()
+
+    
     {
         Console.WriteLine($"Alto: {alto}");
         Console.WriteLine($"Ancho: {ancho}");
         Console.WriteLine($"Color: {color}");
-        Console.WriteLine($"Abierta: {abierta}");
+        Console.WriteLine($"Estado: {abierta}");
     }
 
 
@@ -41,15 +51,15 @@ public class Program
         Puerta puerta = new Puerta();
 
         Console.WriteLine("Mostrar estado");
+        puerta.Cerrar();       
         puerta.MostrarEstado();
-
         Console.WriteLine();// salto de línea
 
         Console.WriteLine("Abrir puerta y mostrar estado");
-        puerta.Abrir();
-        puerta.Cerrar();
-        puerta.GetAncho();
+        puerta.Abrir();//devuelve true en Estado;
+        puerta.SetAncho(30);
         puerta.SetAncho(80);
+        puerta.GetColor();
         puerta.MostrarEstado();
 
 
