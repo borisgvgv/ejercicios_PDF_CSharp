@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/6400.1.csproj.AssemblyReference.cache
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/6400.1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/6400.1.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/6400.1.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/6400.1.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6400.1/bin/Debug/net7.0/6400.1
+/workspaces/ejercicios_PDF_CSharp/6400.1/bin/Debug/net7.0/6400.1.deps.json
+/workspaces/ejercicios_PDF_CSharp/6400.1/bin/Debug/net7.0/6400.1.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6400.1/bin/Debug/net7.0/6400.1.dll
+/workspaces/ejercicios_PDF_CSharp/6400.1/bin/Debug/net7.0/6400.1.pdb
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/6400.1.dll
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/refint/6400.1.dll
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/6400.1.pdb
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/6400.1.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6400.1/obj/Debug/net7.0/ref/6400.1.dll
