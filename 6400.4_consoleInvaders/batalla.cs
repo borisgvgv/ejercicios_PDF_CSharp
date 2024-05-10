@@ -51,7 +51,6 @@ public class Batalla : Sprite
                         {
                             Console.Write("*");
                         }
-
                         else if (i == lider.GetY() && j == lider.GetX())
                         {
                             lider.Mostrar();

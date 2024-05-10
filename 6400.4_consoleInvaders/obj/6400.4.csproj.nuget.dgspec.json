@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ejercicios_PDF_CSharp/6400.4/6400.4.csproj": {}
+    "/workspaces/ejercicios_PDF_CSharp/6400.4_consoleInvaders/6400.4.csproj": {}
   },
   "projects": {
-    "/workspaces/ejercicios_PDF_CSharp/6400.4/6400.4.csproj": {
+    "/workspaces/ejercicios_PDF_CSharp/6400.4_consoleInvaders/6400.4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/6400.4/6400.4.csproj",
+        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/6400.4_consoleInvaders/6400.4.csproj",
         "projectName": "6400.4",
-        "projectPath": "/workspaces/ejercicios_PDF_CSharp/6400.4/6400.4.csproj",
+        "projectPath": "/workspaces/ejercicios_PDF_CSharp/6400.4_consoleInvaders/6400.4.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ejercicios_PDF_CSharp/6400.4/obj/",
+        "outputPath": "/workspaces/ejercicios_PDF_CSharp/6400.4_consoleInvaders/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
