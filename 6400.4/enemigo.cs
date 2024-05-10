@@ -12,6 +12,18 @@ public class Enemigo : Sprite
         enemigo = "][";
     }
 
+    public int GetX(){
+        return x;
+    }
+    public int GetY(){
+        return y;
+    }
+
+    public void SetXY(int x, int y){
+        this.x = x;
+        this.y = y;
+    }
+
     public string GetEnemigo(){
         return enemigo;
     }

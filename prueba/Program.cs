@@ -1,69 +1,54 @@
-﻿
-using System;
-using System.Drawing;
-public class Puerta
+﻿using System;
+public class Ejemplo_06_08a
 {
-
-    int alto;
-    int ancho;
-    Color color = Color.FromArgb(255, 0, 0);
-
-    bool abierta;
-    public void Abrir()
+    public static void Main()
     {
-        abierta = true;
-    }
-    public void Cerrar()
-    {
-        abierta = false;
-    }
-    public int GetAncho()
-    {
-        return ancho;
-    }
-    public void SetAncho(int nuevoValor)
-    {
-        ancho = nuevoValor;
-    }
+        Animal a1 = new Animal();
+        Console.WriteLine();
 
-    public Color GetColor()
-    {
-        return color;
+        GatoSiames a2 = new GatoSiames();
+        Console.WriteLine();
+
+        Perro a3 = new Perro();
+        Console.WriteLine();
+        
+        Gato a4 = new Gato();
+        Console.WriteLine();
     }
-    
-
-    public void MostrarEstado()
-
-    
-    {
-        Console.WriteLine($"Alto: {alto}");
-        Console.WriteLine($"Ancho: {ancho}");
-        Console.WriteLine($"Color: {color}");
-        Console.WriteLine($"Estado: {abierta}");
-    }
-
-
 }
-public class Program
+
+// class--------------------------
+
+public class Animal
 {
-    static void Main()
+    public Animal()
     {
-
-        Puerta puerta = new Puerta();
-
-        Console.WriteLine("Mostrar estado");
-        puerta.MostrarEstado();
-
-        Console.WriteLine();// salto de línea
-
-        Console.WriteLine("Abrir puerta y mostrar estado");
-        puerta.Abrir();//devuelve true en Estado;
-        puerta.SetAncho(30);
-        puerta.SetAncho(80);
-        puerta.GetColor();
-        puerta.MostrarEstado();
+        Console.WriteLine("Ha nacido un animal");
+    }
+}
 
 
-
+// ------------------
+public class Perro : Animal
+{
+    public Perro()
+    {
+        Console.WriteLine("Ha nacido un perro");
+    }
+}
+// ------------------
+public class Gato : Animal
+{
+    public Gato()
+    {
+        Console.WriteLine("Ha nacido un gato");
+    }
+}
+// ------------------
+public class GatoSiames : Gato
+{
+    public GatoSiames()
+    {
+        Console.WriteLine("Ha nacido un gato siamés");
     }
 }

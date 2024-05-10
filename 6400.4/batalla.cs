@@ -17,7 +17,7 @@ public class Batalla : Sprite
         {
 
 
-            if(vidas > 0)
+            if (vidas > 0)
             {
                 Console.Clear();
                 if (vidas == 3)
@@ -43,7 +43,11 @@ public class Batalla : Sprite
                         {
                             Console.Write("*");
                         }
-                        else if ((i == 0 || j == 0) || (i == area.GetY() - 1 || j == area.GetX() - 3) && (i == lider.GetY() || i == enemigo.GetY()) && (lider.GetY() == enemigo.GetY()))
+                        else if ((i == 0 || j == 0) || (i == area.GetY() - 1 || j == area.GetX() - 3) && (i == lider.GetY() || i == enemigo.GetY()) && (lider.GetY() == enemigo.GetY()) && (lider.GetX() != enemigo.GetX()))
+                        {
+                            Console.Write("*");
+                        }
+                        else if ((i == 0 || j == 0) || (i == area.GetY() - 1 || j == area.GetX() - 2) && (i == lider.GetY() && i == enemigo.GetY()) && (lider.GetY() == enemigo.GetY()) && (lider.GetX() == enemigo.GetX()))
                         {
                             Console.Write("*");
                         }
