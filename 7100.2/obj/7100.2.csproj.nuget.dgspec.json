@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ejercicios_PDF_CSharp/5100.3/5100.3.csproj": {}
+    "/workspaces/ejercicios_PDF_CSharp/7100.2/7100.2.csproj": {}
   },
   "projects": {
-    "/workspaces/ejercicios_PDF_CSharp/5100.3/5100.3.csproj": {
+    "/workspaces/ejercicios_PDF_CSharp/7100.2/7100.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/5100.3/5100.3.csproj",
-        "projectName": "5100.3",
-        "projectPath": "/workspaces/ejercicios_PDF_CSharp/5100.3/5100.3.csproj",
+        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/7100.2/7100.2.csproj",
+        "projectName": "7100.2",
+        "projectPath": "/workspaces/ejercicios_PDF_CSharp/7100.2/7100.2.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ejercicios_PDF_CSharp/5100.3/obj/",
+        "outputPath": "/workspaces/ejercicios_PDF_CSharp/7100.2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -53,26 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
