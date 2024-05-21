@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/5200.3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/5200.3.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/5200.3.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/5200.3.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/5200.3.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/5200.3/bin/Debug/net8.0/5200.3
+/workspaces/ejercicios_PDF_CSharp/5200.3/bin/Debug/net8.0/5200.3.deps.json
+/workspaces/ejercicios_PDF_CSharp/5200.3/bin/Debug/net8.0/5200.3.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/5200.3/bin/Debug/net8.0/5200.3.dll
+/workspaces/ejercicios_PDF_CSharp/5200.3/bin/Debug/net8.0/5200.3.pdb
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/5200.3.dll
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/refint/5200.3.dll
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/5200.3.pdb
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/5200.3.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/5200.3/obj/Debug/net8.0/ref/5200.3.dll
