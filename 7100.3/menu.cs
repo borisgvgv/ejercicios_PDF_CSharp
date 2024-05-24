@@ -6,7 +6,7 @@ public class Menu
     protected int option = 0;
 
 
-    public void SetOption(int option)
+    public void SetOption(int opcion)
     {
         this.option = option;
     }
