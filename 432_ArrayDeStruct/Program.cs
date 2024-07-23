@@ -3,7 +3,6 @@
 class Program
 {
 
-
     struct fechaNacimiento
     {
         public byte dia;
