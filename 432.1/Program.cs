@@ -35,7 +35,7 @@ public class Program
 
                     if (numeroDeCancion < cantidad)
                     {
-                        Console.WriteLine("Titulo: ");
+                        Console.WriteLine("Título: ");
                         canciones[numeroDeCancion].titulo = Console.ReadLine();
                         Console.WriteLine("Autor: ");
                         canciones[numeroDeCancion].autor = Console.ReadLine();
@@ -61,7 +61,7 @@ public class Program
                     {
 
                         Console.WriteLine("Tema {0}", i + 1);
-                        Console.WriteLine("Titulo: {0}", canciones[i].titulo);
+                        Console.WriteLine("Título: {0}", canciones[i].titulo);
                         Console.WriteLine("Autor: {0}", canciones[i].autor);
                         Console.WriteLine();
 
@@ -83,7 +83,7 @@ public class Program
                         if (autorBuscado == canciones[i].autor)
                         {
                             Console.WriteLine("Tema {0}", i + 1);
-                            Console.WriteLine("Titulo: {0}", canciones[i].titulo);
+                            Console.WriteLine("Título: {0}", canciones[i].titulo);
                             Console.WriteLine("Autor: {0}", canciones[i].autor);
                             Console.WriteLine();
                         }
@@ -115,7 +115,7 @@ public class Program
                     } while (!salir);
 
                     Console.WriteLine("Tema {0}", n);
-                    Console.WriteLine("Titulo: {0}", canciones[n - 1].titulo);
+                    Console.WriteLine("Título: {0}", canciones[n - 1].titulo);
                     Console.WriteLine("Autor: {0}", canciones[n - 1].autor);
                     Console.WriteLine();
 
