@@ -143,6 +143,7 @@ public class Program
                             Console.WriteLine("Título: {0}", canciones[n - 1].titulo);
                             Console.WriteLine("Autor: {0}", canciones[n - 1].autor);
                             Console.WriteLine();
+                            
                             salir = true;
                         }
 
@@ -153,7 +154,7 @@ public class Program
 
                 case 5:
 
-                    Console.Write("Número de canción que quieres borrar");
+                    Console.Write("Número de canción que quieres borrar: ");
                     int cancionBorrar = Convert.ToInt32(Console.ReadLine());
 
                     for (int i = cancionBorrar - 1; i < numeroDeCancion - 1; i++)
