@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "M0U0cv5jsrekcU//hL6LoJ91jnmdM7jsEP0wPzFIpwldZ44wNC0559hSCn11+E61x77zG9hukkOqnLRZf+Sl1Q==",
+  "dgSpecHash": "50xXXlKVD50=",
   "success": true,
   "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/446_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
