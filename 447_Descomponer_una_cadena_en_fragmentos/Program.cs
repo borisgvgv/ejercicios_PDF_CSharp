@@ -9,6 +9,7 @@ class Ejemplo_04_04_07a
 
         Console.WriteLine();
         Console.WriteLine("Ejemplo 1  Split-----------------------------");
+        //En este caso el split separará la cadena cada vez que encuentre un espacio
         Console.WriteLine();
 
         string ejemplo = "uno dos tres cuatro";
