@@ -40,14 +40,30 @@ class Program
                         datosPersona[cantidad].nombre = Console.ReadLine();
                         Console.WriteLine("Dia de nacimiento: ");
                         datosPersona[cantidad].diaDeNacimiento = Convert.ToByte(Console.ReadLine());
-                        Console.WriteLine("Mes de nacimiento: ");
-                        datosPersona[cantidad].mesDeNacimiento = Convert.ToByte(Console.ReadLine());
-                        if (datosPersona[cantidad].mesDeNacimiento == 0)
+
+                        do
                         {
-                            salir = true;
-                        }
-                        Console.WriteLine("Año de nacimiento: ");
-                        datosPersona[cantidad].anyoDeNacimiento = Convert.ToInt32(Console.ReadLine());
+                            Console.WriteLine("Mes de nacimiento: ");
+                            datosPersona[cantidad].mesDeNacimiento = Convert.ToByte(Console.ReadLine());
+                            if ((datosPersona[cantidad].mesDeNacimiento <= 0) || (datosPersona[cantidad].mesDeNacimiento > 12))
+                            {
+                                Console.WriteLine("El mes debe estar entre 1 y 12");
+                                Console.WriteLine("Vuelve a intentarlo");
+                            }
+
+                        } while ((datosPersona[cantidad].mesDeNacimiento <= 0) || (datosPersona[cantidad].mesDeNacimiento > 12));
+
+                        do
+                        {
+                            Console.WriteLine("Año de nacimiento: ");
+                            datosPersona[cantidad].anyoDeNacimiento = Convert.ToInt32(Console.ReadLine());
+                            if (datosPersona[cantidad].anyoDeNacimiento > DateTime.Now.Year)
+                            {
+                                Console.WriteLine("El año debe ser menor o igual a {0}", DateTime.Now.Year);
+                                Console.WriteLine("Vuelve a intentarlo");
+                            }
+
+                        } while (datosPersona[cantidad].anyoDeNacimiento > DateTime.Now.Year);
 
                         cantidad++;
                     }
@@ -68,7 +84,9 @@ class Program
                     {
                         if (mesBuscar == datosPersona[i].mesDeNacimiento)
                         {
+                            Console.WriteLine();
                             Console.WriteLine("datos {0}", i + 1);
+                            Console.WriteLine("Nombre: {0}", datosPersona[i].nombre);
                             Console.WriteLine("Dia de nacimiento: {0}", datosPersona[i].diaDeNacimiento);
                             Console.WriteLine("Mes de nacimiento: {0}", datosPersona[i].mesDeNacimiento);
                             Console.WriteLine("Año de nacimiento: {0}", datosPersona[i].anyoDeNacimiento);
@@ -90,6 +108,8 @@ class Program
 
 
         } while (!salir);
+
+        Console.Clear();
 
 
 
