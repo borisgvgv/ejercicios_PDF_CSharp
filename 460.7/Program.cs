@@ -152,26 +152,29 @@ public class Program
 
                         myStruct[] fichasOrdenadas = new myStruct[capacidad];
 
-                        string temporal = "";
-
-                        for (int i = 0; i < cantidad; i++)
+                        // Bubble Sort: Sorting fichas by name
+                        for (int i = 0; i < cantidad - 1; i++)
                         {
-                            for (int j = 1; j < cantidad; j++)
+                            for (int j = 0; j < cantidad - i - 1; j++)
                             {
-                                System.Console.WriteLine(ficcha);
-                                if (fichas[i].name[0] > fichas[j].name[0])
+                                if (String.Compare(fichas[j].name, fichas[j + 1].name) > 0)
                                 {
-                                    temporal = fichas[j].name;//A
-                                    fichas[j].name = fichas[i].name;//B
-                                    fichas[i].name = fichas[j].name;
-                                    fichasOrdenadas[i].name = fichas[j].name;
+                                    // Swap fichas[j] and fichas[j + 1]
+                                    string temp = fichas[j];
+                                    fichas[j] = fichas[j + 1];
+                                    fichas[j + 1] = temp;
                                 }
                             }
                         }
 
+                        // After sorting, assign fichas to fichasOrdenadas
                         for (int i = 0; i < cantidad; i++)
                         {
-                         
+                            fichasOrdenadas[i] = fichas[i];
+                        }
+
+                        for (int i = 0; i < cantidad; i++)
+                        {
                             System.Console.WriteLine(fichasOrdenadas[i].name);
                         }
 
