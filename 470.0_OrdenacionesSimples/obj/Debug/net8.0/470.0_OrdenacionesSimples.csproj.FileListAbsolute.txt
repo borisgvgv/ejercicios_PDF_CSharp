@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/470.0_OrdenacionesSimples.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/470.0_OrdenacionesSimples.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/470.0_OrdenacionesSimples.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/470.0_OrdenacionesSimples.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/470.0_OrdenacionesSimples.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/bin/Debug/net8.0/470.0_OrdenacionesSimples
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/bin/Debug/net8.0/470.0_OrdenacionesSimples.deps.json
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/bin/Debug/net8.0/470.0_OrdenacionesSimples.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/bin/Debug/net8.0/470.0_OrdenacionesSimples.dll
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/bin/Debug/net8.0/470.0_OrdenacionesSimples.pdb
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/470.0_OrdenacionesSimples.dll
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/refint/470.0_OrdenacionesSimples.dll
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/470.0_OrdenacionesSimples.pdb
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/470.0_OrdenacionesSimples.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/Debug/net8.0/ref/470.0_OrdenacionesSimples.dll
