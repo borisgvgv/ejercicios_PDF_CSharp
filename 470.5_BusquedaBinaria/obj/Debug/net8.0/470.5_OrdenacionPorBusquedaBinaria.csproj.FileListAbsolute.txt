@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/bin/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/bin/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.deps.json
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/bin/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/bin/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.dll
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/bin/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.pdb
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.dll
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/refint/470.5_OrdenacionPorBusquedaBinaria.dll
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.pdb
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/470.5_OrdenacionPorBusquedaBinaria.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/470.5_OrdenacionPorBusquedaBinaria/obj/Debug/net8.0/ref/470.5_OrdenacionPorBusquedaBinaria.dll

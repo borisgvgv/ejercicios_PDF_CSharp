@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/bin/Debug/net8.0/470.5_BusquedaBinaria
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/bin/Debug/net8.0/470.5_BusquedaBinaria.deps.json
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/bin/Debug/net8.0/470.5_BusquedaBinaria.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/bin/Debug/net8.0/470.5_BusquedaBinaria.dll
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/bin/Debug/net8.0/470.5_BusquedaBinaria.pdb
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/470.5_BusquedaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/470.5_BusquedaBinaria.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/470.5_BusquedaBinaria.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/470.5_BusquedaBinaria.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/470.5_BusquedaBinaria.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/470.5_BusquedaBinaria.dll
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/refint/470.5_BusquedaBinaria.dll
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/470.5_BusquedaBinaria.pdb
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/470.5_BusquedaBinaria.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/470.5_BusquedaBinaria/obj/Debug/net8.0/ref/470.5_BusquedaBinaria.dll
