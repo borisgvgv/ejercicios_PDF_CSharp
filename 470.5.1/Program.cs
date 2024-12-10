@@ -12,14 +12,14 @@ class Program
     {
 
         int cantidad = 0, capacidad = 20, limiteInferior = cantidad, limiteSuperior = capacidad - 1;
-        bool encontrado = false;
+        bool terminado = false;
         int[] datos = new int[capacidad];
 
         //Añadimos datos
         Random r = new Random();
         for (int i = 0; i < capacidad; i++)
         {
-            datos[cantidad] = r.Next(1, capacidad * 2);
+            datos[cantidad] = r.Next(1, capacidad);
             cantidad++;
         }
 
@@ -33,34 +33,33 @@ class Program
         }
 
         //Proponemos un valos a buscar
-        int valorABuscar = 18;
-
-        while (!encontrado)
+        int valorBuscado = 18;
+        System.Console.WriteLine($"Valor buscado : {valorBuscado}");
+        while (!terminado)
         {
 
             int puntoMedio = limiteInferior + (limiteSuperior - limiteInferior) / 2;
 
             //Avisamos de donde buscamos
-            Console.WriteLine($"Buscando entre posición {limiteInferior} y {limiteSuperior}, valores: {datos[limiteInferior]} y {datos[limiteSuperior]},  \" + \" centro {puntoMedio} es {datos[puntoMedio]}");
+            Console.WriteLine($"Buscando entre posición {limiteInferior + 1} y {limiteSuperior + 1}, valores: {datos[limiteInferior]} y {datos[limiteSuperior]},  \" + \" centro {puntoMedio + 1} es {datos[puntoMedio]}");
 
             // Compruebo si hemos acertado
-            if (datos[puntoMedio] == valorABuscar)
+            if (datos[puntoMedio] == valorBuscado)
             {
                 Console.WriteLine("Encontrado!");
-                encontrado = true;
+                terminado = true;
             }
-            // O si se ha encontrado la búsqueda
+            // O si se ha terminado la búsqueda
             else if (limiteInferior == limiteSuperior - 1)
             {
                 Console.WriteLine("No encontrado");
-                encontrado = true;
+                terminado = true;
             }
             // Si no hemos encontrado, debemos seguir buscando en una mitad
-            if (datos[puntoMedio] < valorABuscar)
+            if (datos[puntoMedio] < valorBuscado)
                 limiteInferior = puntoMedio;
             else
                 limiteSuperior = puntoMedio;
         }
-
     }
 }
