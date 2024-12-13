@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/bin/Debug/net8.0/530.0_parametrosDeUnaFuncion
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/bin/Debug/net8.0/530.0_parametrosDeUnaFuncion.deps.json
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/bin/Debug/net8.0/530.0_parametrosDeUnaFuncion.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/bin/Debug/net8.0/530.0_parametrosDeUnaFuncion.dll
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/bin/Debug/net8.0/530.0_parametrosDeUnaFuncion.pdb
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/530.0_parametrosDeUnaFuncion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/530.0_parametrosDeUnaFuncion.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/530.0_parametrosDeUnaFuncion.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/530.0_parametrosDeUnaFuncion.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/530.0_parametrosDeUnaFuncion.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/530.0_parametrosDeUnaFuncion.dll
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/refint/530.0_parametrosDeUnaFuncion.dll
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/530.0_parametrosDeUnaFuncion.pdb
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/530.0_parametrosDeUnaFuncion.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/Debug/net8.0/ref/530.0_parametrosDeUnaFuncion.dll

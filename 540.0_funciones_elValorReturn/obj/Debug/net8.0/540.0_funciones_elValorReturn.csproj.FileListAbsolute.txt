@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/bin/Debug/net8.0/540.0_funciones_elValorReturn
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/bin/Debug/net8.0/540.0_funciones_elValorReturn.deps.json
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/bin/Debug/net8.0/540.0_funciones_elValorReturn.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/bin/Debug/net8.0/540.0_funciones_elValorReturn.dll
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/bin/Debug/net8.0/540.0_funciones_elValorReturn.pdb
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/540.0_funciones_elValorReturn.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/540.0_funciones_elValorReturn.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/540.0_funciones_elValorReturn.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/540.0_funciones_elValorReturn.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/540.0_funciones_elValorReturn.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/540.0_funciones_elValorReturn.dll
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/refint/540.0_funciones_elValorReturn.dll
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/540.0_funciones_elValorReturn.pdb
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/540.0_funciones_elValorReturn.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/540.0_funciones_elValorReturn/obj/Debug/net8.0/ref/540.0_funciones_elValorReturn.dll
