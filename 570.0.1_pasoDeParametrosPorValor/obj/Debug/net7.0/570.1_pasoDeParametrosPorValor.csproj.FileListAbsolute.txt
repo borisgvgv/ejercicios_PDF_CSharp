@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/bin/Debug/net7.0/570.1_pasoDeParametrosPorValor
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/bin/Debug/net7.0/570.1_pasoDeParametrosPorValor.deps.json
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/bin/Debug/net7.0/570.1_pasoDeParametrosPorValor.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/bin/Debug/net7.0/570.1_pasoDeParametrosPorValor.dll
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/bin/Debug/net7.0/570.1_pasoDeParametrosPorValor.pdb
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/570.1_pasoDeParametrosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/570.1_pasoDeParametrosPorValor.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/570.1_pasoDeParametrosPorValor.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/570.1_pasoDeParametrosPorValor.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/570.1_pasoDeParametrosPorValor.dll
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/refint/570.1_pasoDeParametrosPorValor.dll
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/570.1_pasoDeParametrosPorValor.pdb
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/570.1_pasoDeParametrosPorValor.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/ref/570.1_pasoDeParametrosPorValor.dll
+/workspaces/ejercicios_PDF_CSharp/570.1_pasoDeParametrosPorValor/obj/Debug/net7.0/570.1_pasoDeParametrosPorValor.sourcelink.json

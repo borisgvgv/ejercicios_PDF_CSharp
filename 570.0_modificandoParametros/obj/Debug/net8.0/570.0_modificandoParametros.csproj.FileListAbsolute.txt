@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/570.0_modificandoParametros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/570.0_modificandoParametros.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/570.0_modificandoParametros.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/570.0_modificandoParametros.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/570.0_modificandoParametros.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/bin/Debug/net8.0/570.0_modificandoParametros
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/bin/Debug/net8.0/570.0_modificandoParametros.deps.json
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/bin/Debug/net8.0/570.0_modificandoParametros.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/bin/Debug/net8.0/570.0_modificandoParametros.dll
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/bin/Debug/net8.0/570.0_modificandoParametros.pdb
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/570.0_modificandoParametros.dll
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/refint/570.0_modificandoParametros.dll
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/570.0_modificandoParametros.pdb
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/570.0_modificandoParametros.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/obj/Debug/net8.0/ref/570.0_modificandoParametros.dll
