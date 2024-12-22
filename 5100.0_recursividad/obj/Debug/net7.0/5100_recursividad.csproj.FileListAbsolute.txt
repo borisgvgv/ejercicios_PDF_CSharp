@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/bin/Debug/net7.0/5100_recursividad
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/bin/Debug/net7.0/5100_recursividad.deps.json
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/bin/Debug/net7.0/5100_recursividad.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/bin/Debug/net7.0/5100_recursividad.dll
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/bin/Debug/net7.0/5100_recursividad.pdb
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/5100_recursividad.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/5100_recursividad.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/5100_recursividad.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/5100_recursividad.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/5100_recursividad.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/5100_recursividad.dll
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/refint/5100_recursividad.dll
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/5100_recursividad.pdb
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/5100_recursividad.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/Debug/net7.0/ref/5100_recursividad.dll

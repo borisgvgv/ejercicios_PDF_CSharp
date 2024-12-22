@@ -1,4 +1,6 @@
-﻿/*
+﻿using System;
+
+/*
 Crea un programa que emplee recursividad para calcular la suma de los
 elementos de un vector de números enteros, desde su posición inicial a la final,
 usando una función recursiva que tendrá la apariencia: SumaVector(v, desde,
@@ -9,44 +11,39 @@ elemento, cómo podrías emplear esta información para conocer la suma de los 7
 primeros).
 */
 
-using System;
+
 class Program
 {
-
-    public static int SumaVector(int[] vector, int desde, int hasta)
+    public static int SumaVector(int vector, int desde, int hasta)
     {
-        if(desde == hasta)
-        return vector[desde];
 
-        return vector[desde] + SumaVector(vector, desde + 1, hasta);
+        if (vector == 0)
+        {
+            return 0;
+        }
+        else
+        {
+            return vector + SumaVector(vector, hasta, desde - 1);
+        }
 
     }
 
+    public static int PedirVector(){
+        System.Console.Write("Vector: ");
+        return Convert.ToInt32(Console.ReadLine());
+    }
+    public static int PedirDesde(){
+        System.Console.Write("Desde: ");
+        return Convert.ToInt32(Console.ReadLine());
+    }
+     public static int PedirHasta(){
+        System.Console.Write("Hasta: ");
+        return Convert.ToInt32(Console.ReadLine());
+    }
+
+
     static void Main()
     {
-        int[] vector = new int[11];
-        int desde = vector[0];
-        int hasta = vector.Length-1;
-        int resultado = 0;
-
-        for (int i = 0; i < vector.Length; i++)
-        {
-            vector[i] = i;
-        }
-        for (int i = 1; i < vector.Length; i++)
-        {
-            Console.Write($"{vector[i]} ");
-        }
-
-        Console.WriteLine();
-
-        for (int i = 1; i < vector.Length; i++)
-        {
-            resultado += vector[i];
-
-        }
-        Console.WriteLine($"* Suma con bucle for = {resultado}");
-
-        Console.WriteLine($"* Suma con recursividad = {SumaVector(vector, desde, hasta)}");
+        System.Console.WriteLine(SumaVector(PedirVector(), PedirDesde(), PedirHasta()));
     }
 }
