@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/6.4.0_LaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/6.4.0_LaHerencia.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/6.4.0_LaHerencia.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/6.4.0_LaHerencia.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/6.4.0_LaHerencia.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/bin/Debug/net8.0/6.4.0_LaHerencia
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/bin/Debug/net8.0/6.4.0_LaHerencia.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/bin/Debug/net8.0/6.4.0_LaHerencia.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/bin/Debug/net8.0/6.4.0_LaHerencia.dll
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/bin/Debug/net8.0/6.4.0_LaHerencia.pdb
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/6.4.0_LaHerencia.dll
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/refint/6.4.0_LaHerencia.dll
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/6.4.0_LaHerencia.pdb
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/6.4.0_LaHerencia.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.4.0_LaHerencia/obj/Debug/net8.0/ref/6.4.0_LaHerencia.dll

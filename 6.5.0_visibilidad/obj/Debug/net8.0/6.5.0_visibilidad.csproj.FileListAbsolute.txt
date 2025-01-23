@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/6.5.0_visibilidad.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/6.5.0_visibilidad.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/6.5.0_visibilidad.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/6.5.0_visibilidad.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/6.5.0_visibilidad.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/bin/Debug/net8.0/6.5.0_visibilidad
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/bin/Debug/net8.0/6.5.0_visibilidad.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/bin/Debug/net8.0/6.5.0_visibilidad.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/bin/Debug/net8.0/6.5.0_visibilidad.dll
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/bin/Debug/net8.0/6.5.0_visibilidad.pdb
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/6.5.0_visibilidad.dll
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/refint/6.5.0_visibilidad.dll
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/6.5.0_visibilidad.pdb
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/6.5.0_visibilidad.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.5.0_visibilidad/obj/Debug/net8.0/ref/6.5.0_visibilidad.dll

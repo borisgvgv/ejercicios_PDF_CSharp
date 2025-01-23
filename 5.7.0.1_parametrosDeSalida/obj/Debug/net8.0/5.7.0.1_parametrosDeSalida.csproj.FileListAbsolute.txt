@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/bin/Debug/net8.0/5.7.0.1_parametrosDeSalida
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/bin/Debug/net8.0/5.7.0.1_parametrosDeSalida.deps.json
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/bin/Debug/net8.0/5.7.0.1_parametrosDeSalida.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/bin/Debug/net8.0/5.7.0.1_parametrosDeSalida.dll
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/bin/Debug/net8.0/5.7.0.1_parametrosDeSalida.pdb
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/5.7.0.1_parametrosDeSalida.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/5.7.0.1_parametrosDeSalida.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/5.7.0.1_parametrosDeSalida.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/5.7.0.1_parametrosDeSalida.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/5.7.0.1_parametrosDeSalida.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/5.7.0.1_parametrosDeSalida.dll
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/refint/5.7.0.1_parametrosDeSalida.dll
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/5.7.0.1_parametrosDeSalida.pdb
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/5.7.0.1_parametrosDeSalida.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/5.7.0.1_parametrosDeSalida/obj/Debug/net8.0/ref/5.7.0.1_parametrosDeSalida.dll

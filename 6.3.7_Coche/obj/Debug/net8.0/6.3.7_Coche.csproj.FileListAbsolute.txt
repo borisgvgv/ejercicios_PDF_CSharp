@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/6.3.7_Coche.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/6.3.7_Coche.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/6.3.7_Coche.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/6.3.7_Coche.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/6.3.7_Coche.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/bin/Debug/net8.0/6.3.7_Coche
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/bin/Debug/net8.0/6.3.7_Coche.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/bin/Debug/net8.0/6.3.7_Coche.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/bin/Debug/net8.0/6.3.7_Coche.dll
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/bin/Debug/net8.0/6.3.7_Coche.pdb
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/6.3.7_Coche.dll
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/refint/6.3.7_Coche.dll
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/6.3.7_Coche.pdb
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/6.3.7_Coche.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.3.7_Coche/obj/Debug/net8.0/ref/6.3.7_Coche.dll

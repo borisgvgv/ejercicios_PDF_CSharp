@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/bin/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/bin/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/bin/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/bin/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.dll
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/bin/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.pdb
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.dll
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/refint/6.3_ProyectosApartirDeVAriosFuentes.dll
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.pdb
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/6.3_ProyectosApartirDeVAriosFuentes.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.3_ProyectosApartirDeVAriosFuentes/obj/Debug/net8.0/ref/6.3_ProyectosApartirDeVAriosFuentes.dll

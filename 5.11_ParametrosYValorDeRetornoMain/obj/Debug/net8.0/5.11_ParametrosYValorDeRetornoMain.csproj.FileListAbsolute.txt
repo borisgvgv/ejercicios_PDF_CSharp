@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/bin/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/bin/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.deps.json
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/bin/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/bin/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.dll
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/bin/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.pdb
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.dll
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/refint/5.11_ParametrosYValorDeRetornoMain.dll
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.pdb
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/5.11_ParametrosYValorDeRetornoMain.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/5.11_ParametrosYValorDeRetornoMain/obj/Debug/net8.0/ref/5.11_ParametrosYValorDeRetornoMain.dll
