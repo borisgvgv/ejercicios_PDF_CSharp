@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/6.6.0_ConstructoresYDestructores.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/6.6.0_ConstructoresYDestructores.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/6.6.0_ConstructoresYDestructores.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/6.6.0_ConstructoresYDestructores.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/6.6.0_ConstructoresYDestructores.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/bin/Debug/net8.0/6.6.0_ConstructoresYDestructores
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/bin/Debug/net8.0/6.6.0_ConstructoresYDestructores.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/bin/Debug/net8.0/6.6.0_ConstructoresYDestructores.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/bin/Debug/net8.0/6.6.0_ConstructoresYDestructores.dll
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/bin/Debug/net8.0/6.6.0_ConstructoresYDestructores.pdb
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/6.6.0_ConstructoresYDestructores.dll
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/refint/6.6.0_ConstructoresYDestructores.dll
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/6.6.0_ConstructoresYDestructores.pdb
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/6.6.0_ConstructoresYDestructores.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.6.0_ConstructoresYDestructores/obj/Debug/net8.0/ref/6.6.0_ConstructoresYDestructores.dll
