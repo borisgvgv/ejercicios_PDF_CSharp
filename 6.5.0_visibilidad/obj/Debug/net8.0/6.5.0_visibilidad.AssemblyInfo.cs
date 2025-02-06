@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6.5.0_visibilidad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c10b2b23f1d090da3f2c41c4f77536daaef05953")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25fc700652adb4291047c71262357e7b3e51b194")]
 [assembly: System.Reflection.AssemblyProductAttribute("6.5.0_visibilidad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6.5.0_visibilidad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

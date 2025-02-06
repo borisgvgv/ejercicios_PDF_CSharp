@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/6.6.4_ObjetoCocheArray.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/6.6.4_ObjetoCocheArray.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/6.6.4_ObjetoCocheArray.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/6.6.4_ObjetoCocheArray.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/6.6.4_ObjetoCocheArray.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/bin/Debug/net8.0/6.6.4_ObjetoCocheArray
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/bin/Debug/net8.0/6.6.4_ObjetoCocheArray.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/bin/Debug/net8.0/6.6.4_ObjetoCocheArray.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/bin/Debug/net8.0/6.6.4_ObjetoCocheArray.dll
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/bin/Debug/net8.0/6.6.4_ObjetoCocheArray.pdb
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/6.6.4_ObjetoCocheArray.dll
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/refint/6.6.4_ObjetoCocheArray.dll
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/6.6.4_ObjetoCocheArray.pdb
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/6.6.4_ObjetoCocheArray.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.6.4_ObjetoCocheArray/obj/Debug/net8.0/ref/6.6.4_ObjetoCocheArray.dll
