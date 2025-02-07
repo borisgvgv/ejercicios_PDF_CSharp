@@ -13,23 +13,21 @@ nombre, les pedirá que saluden y pedirá a la persona inglesa que tome té.
 */
 
 
-public class classSaludo
+public class Saludo
 {
     protected string nombre;
 
-    public classSaludo()
+    public Saludo()
     {
-        nombre = "Nery";
+        nombre = "Boris";
     }
-    public classSaludo(string newNombre)
+    public Saludo(string newNombre)
     {
         nombre = newNombre;
     }
 
-    public void MostrarSaludo()
-    {
-        System.Console.WriteLine("Hola soy {0}", nombre);
-    }
+    
+
 
 }
 

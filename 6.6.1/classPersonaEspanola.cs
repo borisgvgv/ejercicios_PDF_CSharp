@@ -12,8 +12,8 @@ public class classPersonaEspanola : classSaludo
         nombre = newNombre;
     }
 
-    public new void TomarTe()
+    public new void MostrarSaludo()
     {
-        System.Console.WriteLine("Hola soy {0}, y estoy tomando té", nombre);
+        System.Console.WriteLine("Hola soy {0}", nombre);
     }
 }

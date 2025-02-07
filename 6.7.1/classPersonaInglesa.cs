@@ -1,6 +1,6 @@
 using System;
 
-public class classPersonaInglesa : classSaludo
+public class classPersonaInglesa : Saludo
 {
 
     protected string nombre;
@@ -14,9 +14,14 @@ public class classPersonaInglesa : classSaludo
         nombre = newNombre;
     }
 
+    public new void MostrarSaludo()
+    {
+        System.Console.WriteLine("Hy I'm {0}", nombre);
+    }
+
     public new void TomarTe()
     {
-        System.Console.WriteLine("Hy I'm {0}, and I'm drinking a tea", nombre);
+        System.Console.WriteLine("I'm drinking a tea");
     }
 
 }
