@@ -8,18 +8,18 @@ valores a sus tres atributos y luego los muestre.
 
 using System;
 
-public class classNumPaginas : classDocumento
+public class NumPaginas : Documento
 {
 
     protected int numPaginas;
 
-    public classNumPaginas()
+    public NumPaginas()
     {
 
         numPaginas = 0;
     }
 
-    public classNumPaginas(int newNumPaginas)
+    public NumPaginas(int newNumPaginas)
     {
 
         numPaginas = newNumPaginas;

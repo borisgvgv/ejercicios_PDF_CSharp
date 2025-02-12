@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/6.8.2_Libros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/6.8.2_Libros.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/6.8.2_Libros.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/6.8.2_Libros.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/6.8.2_Libros.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/bin/Debug/net8.0/6.8.2_Libros
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/bin/Debug/net8.0/6.8.2_Libros.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/bin/Debug/net8.0/6.8.2_Libros.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/bin/Debug/net8.0/6.8.2_Libros.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/bin/Debug/net8.0/6.8.2_Libros.pdb
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/6.8.2_Libros.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/refint/6.8.2_Libros.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/6.8.2_Libros.pdb
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/6.8.2_Libros.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.2_Libros/obj/Debug/net8.0/ref/6.8.2_Libros.dll

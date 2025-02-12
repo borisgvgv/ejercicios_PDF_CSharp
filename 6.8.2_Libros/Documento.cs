@@ -1,6 +1,6 @@
 using System;
 
-public class classDocumento
+public class Documento
 {
 
     protected string documento;
@@ -8,7 +8,7 @@ public class classDocumento
     protected string autor;
     protected string ubicacion;
 
-    public classDocumento()
+    public Documento()
     {
         documento = "Undefined";
         titulo = "Undefined";
@@ -16,7 +16,7 @@ public class classDocumento
         ubicacion = "Undefined";
     }
 
-    public classDocumento(string newDocumento, string newTitulo, string newAutor, string newUbicacion)
+    public Documento(string newDocumento, string newTitulo, string newAutor, string newUbicacion)
     {
         documento = newDocumento;
         titulo = newTitulo;
