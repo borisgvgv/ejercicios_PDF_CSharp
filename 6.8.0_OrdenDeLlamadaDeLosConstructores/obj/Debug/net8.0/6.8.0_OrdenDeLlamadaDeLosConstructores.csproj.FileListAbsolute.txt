@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/bin/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/bin/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/bin/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/bin/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/bin/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.pdb
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/refint/6.8.0_OrdenDeLlamadaDeLosConstructores.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.pdb
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/6.8.0_OrdenDeLlamadaDeLosConstructores.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.0_OrdenDeLlamadaDeLosConstructores/obj/Debug/net8.0/ref/6.8.0_OrdenDeLlamadaDeLosConstructores.dll

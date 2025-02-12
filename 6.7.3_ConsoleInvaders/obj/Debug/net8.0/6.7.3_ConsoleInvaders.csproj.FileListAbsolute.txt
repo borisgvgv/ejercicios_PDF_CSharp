@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/bin/Debug/net8.0/6.7.3_ConsoleInvaders
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/bin/Debug/net8.0/6.7.3_ConsoleInvaders.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/bin/Debug/net8.0/6.7.3_ConsoleInvaders.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/bin/Debug/net8.0/6.7.3_ConsoleInvaders.dll
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/bin/Debug/net8.0/6.7.3_ConsoleInvaders.pdb
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/6.7.3_ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/6.7.3_ConsoleInvaders.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/6.7.3_ConsoleInvaders.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/6.7.3_ConsoleInvaders.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/6.7.3_ConsoleInvaders.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/6.7.3_ConsoleInvaders.dll
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/refint/6.7.3_ConsoleInvaders.dll
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/6.7.3_ConsoleInvaders.pdb
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/6.7.3_ConsoleInvaders.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.7.3_ConsoleInvaders/obj/Debug/net8.0/ref/6.7.3_ConsoleInvaders.dll

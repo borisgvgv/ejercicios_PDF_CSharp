@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/bin/Debug/net8.0/6.7.4_vehiculo
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/bin/Debug/net8.0/6.7.4_vehiculo.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/bin/Debug/net8.0/6.7.4_vehiculo.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/bin/Debug/net8.0/6.7.4_vehiculo.dll
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/bin/Debug/net8.0/6.7.4_vehiculo.pdb
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/6.7.4_vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/6.7.4_vehiculo.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/6.7.4_vehiculo.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/6.7.4_vehiculo.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/6.7.4_vehiculo.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/6.7.4_vehiculo.dll
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/refint/6.7.4_vehiculo.dll
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/6.7.4_vehiculo.pdb
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/6.7.4_vehiculo.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.7.4_vehiculo/obj/Debug/net8.0/ref/6.7.4_vehiculo.dll
