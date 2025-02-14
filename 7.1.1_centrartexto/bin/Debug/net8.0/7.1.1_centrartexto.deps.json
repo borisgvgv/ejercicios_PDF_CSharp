@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "7.1.1_centrartexto/1.0.0": {
+        "runtime": {
+          "7.1.1_centrartexto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7.1.1_centrartexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

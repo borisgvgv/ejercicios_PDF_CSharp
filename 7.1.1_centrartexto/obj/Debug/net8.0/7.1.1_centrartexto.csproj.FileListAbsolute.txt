@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/7.1.1_centrartexto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/7.1.1_centrartexto.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/7.1.1_centrartexto.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/7.1.1_centrartexto.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/7.1.1_centrartexto.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/bin/Debug/net8.0/7.1.1_centrartexto
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/bin/Debug/net8.0/7.1.1_centrartexto.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/bin/Debug/net8.0/7.1.1_centrartexto.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/bin/Debug/net8.0/7.1.1_centrartexto.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/bin/Debug/net8.0/7.1.1_centrartexto.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/7.1.1_centrartexto.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/refint/7.1.1_centrartexto.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/7.1.1_centrartexto.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/7.1.1_centrartexto.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.1_centrartexto/obj/Debug/net8.0/ref/7.1.1_centrartexto.dll

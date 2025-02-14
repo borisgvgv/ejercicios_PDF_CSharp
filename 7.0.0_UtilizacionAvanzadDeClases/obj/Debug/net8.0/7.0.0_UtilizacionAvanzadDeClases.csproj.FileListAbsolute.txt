@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/bin/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/bin/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/bin/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/bin/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.dll
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/bin/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.pdb
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.dll
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/refint/7.0.0_UtilizacionAvanzadDeClases.dll
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.pdb
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/7.0.0_UtilizacionAvanzadDeClases.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.0.0_UtilizacionAvanzadDeClases/obj/Debug/net8.0/ref/7.0.0_UtilizacionAvanzadDeClases.dll

@@ -8,7 +8,7 @@ valores a sus tres atributos y luego los muestre.
 
 using System;
 
-public class NumPaginas : Documento
+public class NumPaginas
 {
 
     protected int numPaginas;
@@ -25,7 +25,7 @@ public class NumPaginas : Documento
         numPaginas = newNumPaginas;
     }
 
-    public new void MostrarNumPaginas()
+    public void MostrarNumPaginas()
     {
         System.Console.WriteLine("Número de páginas: {0}", numPaginas);
     }

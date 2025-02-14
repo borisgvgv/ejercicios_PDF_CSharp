@@ -1,37 +1,15 @@
-﻿using System;
+using System;
 
-public class Libro
+public class Libro : Datos
 {
-    public static void Main()
+    public Libro(string titulo, string autor, string ubicacion)
     {
-        Console.Clear();
-        Documento documento = new Documento();
-        NumPaginas numeroDePaginas = new NumPaginas();
-
-        documento.MostrarDocumento();
-        numeroDePaginas.MostrarNumPaginas();
+        System.Console.WriteLine("Creando Libro");
         System.Console.WriteLine();
-
-     
-                System.Console.Write("Tipo de documento: ");
-                string tipodDeDocumento = Console.ReadLine();
-                System.Console.Write("Título: ");
-                string titulo = Console.ReadLine();
-                System.Console.Write("Autor: ");
-                string autor = Console.ReadLine();
-                System.Console.Write("Ubicación: ");
-                string ubicacion = Console.ReadLine();
-                System.Console.Write("Número de pág: ");
-                int numPag = Convert.ToInt32(Console.ReadLine());
-
-                Documento documento2 = new Documento(tipodDeDocumento, titulo, autor, ubicacion);
-                NumPaginas numeroDePaginas2 = new NumPaginas(numPag);
-
-                documento2.MostrarDocumento();
-                numeroDePaginas2.MostrarNumPaginas();
-                System.Console.WriteLine();
-
-        
+        System.Console.WriteLine("Título: {0}", titulo);
+        System.Console.WriteLine("Autor: {0}", autor);
+        System.Console.WriteLine("Ubicación: {0}", ubicacion);
     }
+
 
 }

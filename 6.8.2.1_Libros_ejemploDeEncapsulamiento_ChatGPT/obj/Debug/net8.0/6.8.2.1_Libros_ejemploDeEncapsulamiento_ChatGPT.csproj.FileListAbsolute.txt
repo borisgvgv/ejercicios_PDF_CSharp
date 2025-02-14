@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/bin/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/bin/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/bin/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/bin/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/bin/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.pdb
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/refint/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.dll
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.pdb
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT/obj/Debug/net8.0/ref/6.8.2.1_Libros_ejemploDeEncapsulamiento_ChatGPT.dll

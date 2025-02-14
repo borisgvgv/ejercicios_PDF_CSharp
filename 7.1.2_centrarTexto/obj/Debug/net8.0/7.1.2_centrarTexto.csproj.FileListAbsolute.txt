@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/bin/Debug/net8.0/7.1.2_centrarTexto
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/bin/Debug/net8.0/7.1.2_centrarTexto.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/bin/Debug/net8.0/7.1.2_centrarTexto.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/bin/Debug/net8.0/7.1.2_centrarTexto.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/bin/Debug/net8.0/7.1.2_centrarTexto.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/7.1.2_centrarTexto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/7.1.2_centrarTexto.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/7.1.2_centrarTexto.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/7.1.2_centrarTexto.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/7.1.2_centrarTexto.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/7.1.2_centrarTexto.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/refint/7.1.2_centrarTexto.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/7.1.2_centrarTexto.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/7.1.2_centrarTexto.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.2_centrarTexto/obj/Debug/net8.0/ref/7.1.2_centrarTexto.dll
