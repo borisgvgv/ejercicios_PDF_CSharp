@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/7.1.3_baseDeDatosFichero.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/7.1.3_baseDeDatosFichero.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/7.1.3_baseDeDatosFichero.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/7.1.3_baseDeDatosFichero.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/7.1.3_baseDeDatosFichero.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/bin/Debug/net8.0/7.1.3_baseDeDatosFichero
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/bin/Debug/net8.0/7.1.3_baseDeDatosFichero.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/bin/Debug/net8.0/7.1.3_baseDeDatosFichero.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/bin/Debug/net8.0/7.1.3_baseDeDatosFichero.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/bin/Debug/net8.0/7.1.3_baseDeDatosFichero.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/7.1.3_baseDeDatosFichero.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/refint/7.1.3_baseDeDatosFichero.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/7.1.3_baseDeDatosFichero.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/7.1.3_baseDeDatosFichero.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3_baseDeDatosFichero/obj/Debug/net8.0/ref/7.1.3_baseDeDatosFichero.dll

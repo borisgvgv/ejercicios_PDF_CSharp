@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/bin/Debug/net8.0/7.1.3.2_ArchivadorConArray
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/bin/Debug/net8.0/7.1.3.2_ArchivadorConArray.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/bin/Debug/net8.0/7.1.3.2_ArchivadorConArray.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/bin/Debug/net8.0/7.1.3.2_ArchivadorConArray.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/bin/Debug/net8.0/7.1.3.2_ArchivadorConArray.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/7.1.3.2_ArchivadorConArray.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/7.1.3.2_ArchivadorConArray.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/7.1.3.2_ArchivadorConArray.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/7.1.3.2_ArchivadorConArray.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/7.1.3.2_ArchivadorConArray.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/7.1.3.2_ArchivadorConArray.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/refint/7.1.3.2_ArchivadorConArray.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/7.1.3.2_ArchivadorConArray.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/7.1.3.2_ArchivadorConArray.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3.2_ArchivadorConArray/obj/Debug/net8.0/ref/7.1.3.2_ArchivadorConArray.dll

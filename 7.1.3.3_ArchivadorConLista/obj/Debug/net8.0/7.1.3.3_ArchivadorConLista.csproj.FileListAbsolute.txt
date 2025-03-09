@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/7.1.3.3_ArchivadorConLista.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/7.1.3.3_ArchivadorConLista.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/7.1.3.3_ArchivadorConLista.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/7.1.3.3_ArchivadorConLista.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/7.1.3.3_ArchivadorConLista.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/bin/Debug/net8.0/7.1.3.3_ArchivadorConLista
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/bin/Debug/net8.0/7.1.3.3_ArchivadorConLista.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/bin/Debug/net8.0/7.1.3.3_ArchivadorConLista.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/bin/Debug/net8.0/7.1.3.3_ArchivadorConLista.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/bin/Debug/net8.0/7.1.3.3_ArchivadorConLista.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/7.1.3.3_ArchivadorConLista.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/refint/7.1.3.3_ArchivadorConLista.dll
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/7.1.3.3_ArchivadorConLista.pdb
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/7.1.3.3_ArchivadorConLista.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.1.3.3_ArchivadorConLista/obj/Debug/net8.0/ref/7.1.3.3_ArchivadorConLista.dll

@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/bin/Debug/net8.0/7.2_ArraysDeObjetos
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/bin/Debug/net8.0/7.2_ArraysDeObjetos.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/bin/Debug/net8.0/7.2_ArraysDeObjetos.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/bin/Debug/net8.0/7.2_ArraysDeObjetos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/bin/Debug/net8.0/7.2_ArraysDeObjetos.pdb
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/7.2_ArraysDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/7.2_ArraysDeObjetos.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/7.2_ArraysDeObjetos.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/7.2_ArraysDeObjetos.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/7.2_ArraysDeObjetos.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/7.2_ArraysDeObjetos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/refint/7.2_ArraysDeObjetos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/7.2_ArraysDeObjetos.pdb
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/7.2_ArraysDeObjetos.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.2_ArraysDeObjetos/obj/Debug/net8.0/ref/7.2_ArraysDeObjetos.dll
