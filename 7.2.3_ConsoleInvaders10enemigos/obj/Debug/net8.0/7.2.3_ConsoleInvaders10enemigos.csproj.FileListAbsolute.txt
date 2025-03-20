@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/bin/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/bin/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/bin/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/bin/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/bin/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.pdb
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/refint/7.2.3_ConsoleInvaders10enemigos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.pdb
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/7.2.3_ConsoleInvaders10enemigos.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.2.3_ConsoleInvaders10enemigos/obj/Debug/net8.0/ref/7.2.3_ConsoleInvaders10enemigos.dll

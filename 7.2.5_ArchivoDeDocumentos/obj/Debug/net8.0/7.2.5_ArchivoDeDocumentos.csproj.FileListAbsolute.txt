@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/7.2.5_ArchivoDeDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/7.2.5_ArchivoDeDocumentos.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/7.2.5_ArchivoDeDocumentos.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/7.2.5_ArchivoDeDocumentos.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/7.2.5_ArchivoDeDocumentos.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/bin/Debug/net8.0/7.2.5_ArchivoDeDocumentos
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/bin/Debug/net8.0/7.2.5_ArchivoDeDocumentos.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/bin/Debug/net8.0/7.2.5_ArchivoDeDocumentos.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/bin/Debug/net8.0/7.2.5_ArchivoDeDocumentos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/bin/Debug/net8.0/7.2.5_ArchivoDeDocumentos.pdb
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/7.2.5_ArchivoDeDocumentos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/refint/7.2.5_ArchivoDeDocumentos.dll
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/7.2.5_ArchivoDeDocumentos.pdb
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/7.2.5_ArchivoDeDocumentos.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.2.5_ArchivoDeDocumentos/obj/Debug/net8.0/ref/7.2.5_ArchivoDeDocumentos.dll
