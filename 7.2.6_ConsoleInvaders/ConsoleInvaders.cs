@@ -65,7 +65,8 @@ public class Enemigo1
     {
         System.Console.WriteLine(")-(");
     }
-    public Enemigo1(string eliminado){
+    public Enemigo1(string eliminado)
+    {
         System.Console.WriteLine(eliminado);
     }
 
@@ -76,7 +77,8 @@ public class Enemigo2
     {
         System.Console.WriteLine("):(");
     }
-    public Enemigo2(string eliminado){
+    public Enemigo2(string eliminado)
+    {
         System.Console.WriteLine(eliminado);
     }
 }
@@ -86,14 +88,17 @@ public class Enemigo3
     {
         System.Console.WriteLine(")0(");
     }
-    public Enemigo3(string eliminado){
+    public Enemigo3(string eliminado)
+    {
         System.Console.WriteLine(eliminado);
     }
 
 }
 
-public class Eliminado{
-    public Eliminado(){
+public class Eliminado
+{
+    public Eliminado()
+    {
         System.Console.Write("");
     }
 }
@@ -109,12 +114,17 @@ public class DibujarPartida
     protected int[] x3 = new int[3];
     protected int[] y3 = new int[3];
 
+    protected bool[] enemigosVivos1 = new bool[3] { true, true, true };
+    protected bool[] enemigosVivos2 = new bool[3] { true, true, true };
+    protected bool[] enemigosVivos3 = new bool[3] { true, true, true };
+
     protected Random[] random = new Random[3];
     protected Enemigo1[] enemigo1 = new Enemigo1[3];
     protected Enemigo2[] enemigo2 = new Enemigo2[3];
     protected Enemigo3[] enemigo3 = new Enemigo3[3];
-    protected Eliminado eliminado= new Eliminado();
+    protected Eliminado eliminado = new Eliminado();
     protected bool abandonarPartida = false;
+    protected bool winWin = false;
     protected ConsoleKeyInfo key;
 
     protected int contador = 9;
@@ -137,27 +147,33 @@ public class DibujarPartida
 
         do
         {
-
             Console.Clear();
+
             System.Console.WriteLine("Estás en una partida");
             System.Console.WriteLine("Enemigos: {0}", contador);
 
-            for (int i = 0; i < enemigo1.Length; i++)
-            {
-                Console.SetCursorPosition(x1[i], y1[i]);
-                enemigo1[i] = new Enemigo1();
-            }
 
-            for (int i = 0; i < enemigo2.Length; i++)
-            {
-                Console.SetCursorPosition(x2[i], y2[i]);
-                enemigo2[i] = new Enemigo2();
-            }
 
-            for (int i = 0; i < enemigo3.Length; i++)
+            for (int i = 0; i < random.Length; i++)
             {
-                Console.SetCursorPosition(x3[i], y3[i]);
-                enemigo3[i] = new Enemigo3();
+                if (enemigosVivos1[i])
+                {
+                    Console.SetCursorPosition(x1[i], y1[i]);
+                    enemigo1[i] = new Enemigo1();
+                }
+
+                if (enemigosVivos2[i])
+                {
+                    Console.SetCursorPosition(x2[i], y2[i]);
+                    enemigo2[i] = new Enemigo2();
+                }
+
+                if (enemigosVivos3[i])
+                {
+                    Console.SetCursorPosition(x3[i], y3[i]);
+                    enemigo3[i] = new Enemigo3();
+                }
+
             }
 
             Console.SetCursorPosition(x, y);
@@ -205,63 +221,35 @@ public class DibujarPartida
                     break;
             }
 
-            if (x == x1[0] && y == y1[0])
+            for (int i = 0; i < random.Length; i++)
             {
-                contador--;
-                enemigo1[0] = new Enemigo1("");
+                if (enemigosVivos1[i] && x == x1[i] && y == y1[i])
+                {
+                    contador--;
+                    enemigosVivos1[i] = false;
+                }
+                if (enemigosVivos2[i] && x == x2[i] && y == y2[i])
+                {
+                    contador--;
+                    enemigosVivos2[i] = false;
+                }
+                if (enemigosVivos3[i] && x == x3[i] && y == y3[i])
+                {
+                    contador--;
+                    enemigosVivos3[i] = false;
+                }
             }
-            else if (x == x1[1] && y == y1[1])
-            {
-                contador--;
-                enemigo1[1] = new Enemigo1("");
-            }
-            else if (x == x1[2] && y == y1[2])
-            {
-                contador--;
-                enemigo1[2] = new Enemigo1("");
-            }
-            else if (x == x2[0] && y == y2[0])
-            {
-                contador--;
-                enemigo2[0] = new Enemigo2("");
-            }
-            else if (x == x2[1] && y == y2[1])
-            {
-                contador--;
-                enemigo2[1] = new Enemigo2("");
-            }
-            else if (x == x2[2] && y == y2[2])
-            {
-                contador--;
-                enemigo2[2] = new Enemigo2("");
-            }
-            else if (x == x3[0] && y == y3[0])
-            {
-                contador--;
-                enemigo3[0] = new Enemigo3("");
-            }
-            else if (x == x3[1] && y == y3[1])
-            {
-                contador--;
-                enemigo3[1] = new Enemigo3("");
-            }
-            else if (x == x3[2] && y == y3[2])
-            {
-                contador--;
-                enemigo3[2] = new Enemigo3("");
-            }
-
-            Console.SetCursorPosition(x, y);// Sacamos el cursor del espacio de juego
 
             if (contador == 0)
             {
-                Win win = new Win();
+                abandonarPartida = true;
             }
 
         } while (!abandonarPartida);
 
-    }
+        Win win = new Win();
 
+    }
 }
 
 public class Salir
@@ -275,9 +263,31 @@ public class Salir
 
 public class Win
 {
+    protected ConsoleKeyInfo key;
+    protected bool abandonarPartida = false;
     public Win()
     {
-        Console.Clear();
-        System.Console.WriteLine("Has ganado la partida");
+        do
+        {
+            Console.Clear();
+            System.Console.WriteLine("Has ganado la partida");
+            System.Console.WriteLine("Pulsa Enter para jugar o Escape para salir");
+
+            key = Console.ReadKey(true);
+
+            if (key.Key == ConsoleKey.Enter)
+            {
+                DibujarPartida dibujarPartida = new DibujarPartida();
+                abandonarPartida = true;
+
+            }
+            else if (key.Key == ConsoleKey.Escape)
+            {
+                abandonarPartida = true;
+            }
+
+        } while (!abandonarPartida);
+
+        Salir salir = new Salir();
     }
 }
