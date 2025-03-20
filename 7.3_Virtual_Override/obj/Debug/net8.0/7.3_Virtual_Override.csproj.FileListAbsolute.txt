@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/bin/Debug/net8.0/7.3_Virtual_Override
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/bin/Debug/net8.0/7.3_Virtual_Override.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/bin/Debug/net8.0/7.3_Virtual_Override.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/bin/Debug/net8.0/7.3_Virtual_Override.dll
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/bin/Debug/net8.0/7.3_Virtual_Override.pdb
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/7.3_Virtual_Override.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/7.3_Virtual_Override.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/7.3_Virtual_Override.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/7.3_Virtual_Override.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/7.3_Virtual_Override.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/7.3_Virtual_Override.dll
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/refint/7.3_Virtual_Override.dll
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/7.3_Virtual_Override.pdb
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/7.3_Virtual_Override.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.3_Virtual_Override/obj/Debug/net8.0/ref/7.3_Virtual_Override.dll
