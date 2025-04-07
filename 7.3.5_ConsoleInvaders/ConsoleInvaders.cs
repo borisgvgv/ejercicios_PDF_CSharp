@@ -136,43 +136,47 @@ public class DibujarPartida
     Enemigos[] enemigos = new Enemigos[capacidad];
     protected bool abandonar = false;
     protected ConsoleKeyInfo key;
-    protected int x;
-    protected int y;
+    protected int[] x = new int[9];
+    protected int[] y = new int[9];
     protected int contador = 0;
     protected int xNave;
     protected int yNave = 5;
 
     public DibujarPartida()
     {
+
+
+        for (int i = 0; i < 9; i++)
+        {
+            x[i] = random.Next(0, 100);
+            y[i] = random.Next(5, 30);
+        }
+
         do
         {
             Console.Clear();
             System.Console.WriteLine("Estás en una partida");
 
-            key = Console.ReadKey(true);
-
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 9; i++)
             {
-                x = random.Next(0, 100);
-                y = random.Next(5, 30);
-                enemigos[i] = new Enemigo1(x, y);
-                System.Console.Write(enemigos[i].ToString());
-            }
+                if (i < 3)
+                {
+                    enemigos[i] = new Enemigo1(x[i], y[i]);
+                    System.Console.WriteLine(enemigos[i].ToString());
 
-            for (int i = 0; i < 3; i++)
-            {
-                x = random.Next(0, 100);
-                y = random.Next(5, 30);
-                enemigos[i] = new Enemigo2(x, y);
-                System.Console.Write(enemigos[i].ToString());
-            }
+                }
+                else if (i >= 3 && i < 6)
+                {
+                    enemigos[i] = new Enemigo2(x[i], y[i]);
+                    System.Console.WriteLine(enemigos[i].ToString());
 
-            for (int i = 0; i < 3; i++)
-            {
-                x = random.Next(0, 100);
-                y = random.Next(5, 30);
-                enemigos[i] = new Enemigo3(x, y);
-                System.Console.Write(enemigos[i].ToString());
+                }
+                else if (i >= 6)
+                {
+                    enemigos[i] = new Enemigo3(x[i], y[i]);
+                    System.Console.WriteLine(enemigos[i].ToString());
+
+                }
             }
 
             Nave nave = new Nave(xNave, yNave);
@@ -180,22 +184,32 @@ public class DibujarPartida
 
             Console.SetCursorPosition(0, 30);
 
-
+            key = Console.ReadKey(true);
             switch (key.Key)
             {
+                case ConsoleKey.RightArrow:
+                    if (xNave < 100)
+                        xNave++;
+                    break;
+                case ConsoleKey.LeftArrow:
+                    if (xNave > 0)
+                        xNave--;
+                    break;
                 case ConsoleKey.DownArrow:
-                    yNave++;
+                    if (yNave < 30)
+                        yNave++;
                     break;
 
                 case ConsoleKey.UpArrow:
-                    yNave--;
+                    if (yNave > 5)
+                        yNave--;
                     break;
 
                 case ConsoleKey.Escape:
                     abandonar = true;
                     break;
             }
-            
+
 
         } while (!abandonar);
     }
