@@ -34,6 +34,7 @@ public class Bienvenida
             {
                 case ConsoleKey.Enter:
                     DibujarPartida dibujarPartida = new DibujarPartida();
+                    abandonar = true;
                     break;
                 case ConsoleKey.Escape:
                     abandonar = true;
@@ -46,9 +47,17 @@ public class Bienvenida
         } while (!abandonar);
 
         System.Console.WriteLine();
+        Despedida despedida = new Despedida();
+
+
+    }
+}
+
+public class Despedida
+{
+    public Despedida()
+    {
         System.Console.WriteLine("Hasta la próxima");
-
-
     }
 }
 
@@ -128,53 +137,101 @@ public class Enemigo3 : Enemigos
 }
 
 
+public class Win
+{
+    protected bool abandonar = false;
+    protected ConsoleKeyInfo key;
+    public Win()
+    {
+        do
+        {
+            Console.Clear();
+            System.Console.WriteLine("Has ganado la partida");
+            System.Console.WriteLine("Nueva partida: Enter / Salir: Escape");
+            key = Console.ReadKey(true);
+
+            switch (key.Key)
+            {
+                case ConsoleKey.Escape:
+                    abandonar = true;
+                    break;
+                case ConsoleKey.Enter:
+                    DibujarPartida dibujarPartida = new DibujarPartida();
+                    break;
+                default:
+                    System.Console.WriteLine("Opción incorrecta");
+                    break;
+            }
+
+        } while (!abandonar);
+       
+    }
+}
+
+
+
+
 public class DibujarPartida
 {
     protected const byte capacidad = 9;
-    protected byte cantidad = 0;
     protected Random random = new Random();
     Enemigos[] enemigos = new Enemigos[capacidad];
     protected bool abandonar = false;
     protected ConsoleKeyInfo key;
     protected int[] x = new int[9];
     protected int[] y = new int[9];
-    protected int contador = 0;
+    protected int contador = 9;
     protected int xNave;
     protected int yNave = 5;
+    protected bool[] alcanzado = new bool[9];
+
 
     public DibujarPartida()
     {
 
-
-        for (int i = 0; i < 9; i++)
+        for (int i = 0; i < capacidad; i++)
         {
             x[i] = random.Next(0, 100);
             y[i] = random.Next(5, 30);
+            alcanzado[i] = false;
         }
 
         do
         {
             Console.Clear();
-            System.Console.WriteLine("Estás en una partida");
+            System.Console.WriteLine("Estás en una partida - Enemigos: {0}", contador);
 
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < capacidad; i++)
+            {
+                if (xNave == x[i] && yNave == y[i])
+                {
+                    alcanzado[i] = true;
+                    x[i] = 0;
+                    y[i] = 0;
+                    contador--;
+                }
+            }
+
+            for (int i = 0; i < capacidad; i++)
             {
                 if (i < 3)
                 {
                     enemigos[i] = new Enemigo1(x[i], y[i]);
-                    System.Console.WriteLine(enemigos[i].ToString());
-
+                    if (!alcanzado[i])
+                        System.Console.WriteLine(enemigos[i].ToString());
                 }
                 else if (i >= 3 && i < 6)
                 {
                     enemigos[i] = new Enemigo2(x[i], y[i]);
-                    System.Console.WriteLine(enemigos[i].ToString());
+                    if (!alcanzado[i])
+                        System.Console.WriteLine(enemigos[i].ToString());
 
                 }
                 else if (i >= 6)
                 {
                     enemigos[i] = new Enemigo3(x[i], y[i]);
-                    System.Console.WriteLine(enemigos[i].ToString());
+                    if (!alcanzado[i])
+                        System.Console.WriteLine(enemigos[i].ToString());
 
                 }
             }
@@ -204,21 +261,18 @@ public class DibujarPartida
                     if (yNave > 5)
                         yNave--;
                     break;
-
                 case ConsoleKey.Escape:
                     abandonar = true;
                     break;
             }
 
+        } while (!abandonar && contador > 0);
 
-        } while (!abandonar);
+        if (contador == 0)
+        {
+            Win win = new Win();
+        }
+       
     }
-
-
-
-
-
-
-
 }
 

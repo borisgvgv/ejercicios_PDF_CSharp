@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7.3.5_ConsoleInvaders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+144d172047f97b9a4422011d87cb7280c263d022")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a36899fbb7f5368e92a61af82a9a65a3eb484638")]
 [assembly: System.Reflection.AssemblyProductAttribute("7.3.5_ConsoleInvaders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7.3.5_ConsoleInvaders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
