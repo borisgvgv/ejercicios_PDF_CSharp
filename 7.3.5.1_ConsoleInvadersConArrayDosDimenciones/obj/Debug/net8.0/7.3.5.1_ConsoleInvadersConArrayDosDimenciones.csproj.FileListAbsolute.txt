@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/bin/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/bin/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/bin/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/bin/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.dll
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/bin/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.pdb
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.dll
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/refint/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.dll
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.pdb
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/Debug/net8.0/ref/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.dll
