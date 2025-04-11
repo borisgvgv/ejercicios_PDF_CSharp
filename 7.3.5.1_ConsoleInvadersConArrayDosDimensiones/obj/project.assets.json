@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimensiones/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.csproj",
       "projectName": "7.3.5.1_ConsoleInvadersConArrayDosDimenciones",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimensiones/7.3.5.1_ConsoleInvadersConArrayDosDimenciones.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimenciones/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/7.3.5.1_ConsoleInvadersConArrayDosDimensiones/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

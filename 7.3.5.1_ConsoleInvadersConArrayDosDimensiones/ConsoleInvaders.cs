@@ -79,21 +79,22 @@ public class Enemigos
     public string ToString()
     {
         Console.SetCursorPosition(x, y);
-        return "";
+        return enemigo;
     }
 }
 
 public class DibujarPartida
 {
     protected int xN = 0;
-    protected int yN = 0;
-    protected int x;
-    protected int y;
+    protected int yN = 1;
+    protected int[,] x = new int[3, 9];
+    protected int[,] y = new int[3, 9];
+    protected string enemigo;
     protected Random random = new Random();
     protected const int nivel = 3;
     protected const int capacidad = 9;
     protected int cantidad = 3;
-    protected Enemigos[,] enemigo = new Enemigos[nivel, capacidad];
+    protected Enemigos[,] enemigos = new Enemigos[nivel, capacidad];
     protected bool abandonar = false;
 
     protected ConsoleKeyInfo key;
@@ -104,8 +105,8 @@ public class DibujarPartida
         {
             for (int j = 0; j < cantidad; j++)
             {
-                x[i, j] = random.Next(0, Console.WindowWidth);
-                y[i, j] = random.Next(3, ConsoleInvaders.WindowHeight);
+                x[i, j] = random.Next(3, Console.WindowWidth);
+                y[i, j] = random.Next(3, Console.WindowHeight);
             }
         }
 
@@ -115,24 +116,26 @@ public class DibujarPartida
             System.Console.WriteLine("Estás en una partida");
 
             Nave nave = new Nave(xN, yN);
-            nave.ToString();
+            System.Console.WriteLine(nave.ToString());
 
-            for (int i = 0; i < capacidad; i++)
+            for (int i = 0; i < nivel; i++)
             {
-                if (i < 3)
+                for (int j = 0; j < cantidad; j++)
                 {
-                    Enemigos[i] enemigo = new Enemigos[i](x, y, "]-[");
-                    System.Console.WriteLine(enemigo[i].ToString());
-                }
-                else if (i >= 3 && i < 6)
-                {
-                    Enemigos[i] enemigo = new Enemigos[i](x, y, "]*[");
-                    System.Console.WriteLine(enemigo[i].ToString());
-                }
-                else
-                {
-                    Enemigos[i] enemigo = new Enemigos[i](x, y, ">:<");
-                    System.Console.WriteLine(enemigo[i].ToString());
+                    if (i == 0)
+                    {
+                        enemigo = "]:[";
+                    }
+                    else if (i == 1)
+                    {
+                        enemigo = "):(";
+                    }
+                    else
+                    {
+                        enemigo = ">+<";
+                    }
+                    enemigos[i, j] = new Enemigos(x[i, j], y[i, j], enemigo);
+                    System.Console.WriteLine(enemigos[i, j].ToString());
                 }
             }
 
@@ -141,8 +144,35 @@ public class DibujarPartida
             key = Console.ReadKey(true);
             switch (key.Key)
             {
+                case ConsoleKey.LeftArrow:
+                    if (xN > 1)
+                    {
+                        xN--;
+                    }
+                    break;
+                case ConsoleKey.RightArrow:
+                    if (xN < Console.WindowWidth -3)
+                    {
+                        xN++;
+                    }
+                    break;
+                case ConsoleKey.UpArrow:
+                    if (yN > 1)
+                    {
+                        yN--;
+                    }
+                    break;
+                case ConsoleKey.DownArrow:
+                    if (yN < Console.WindowHeight)
+                    {
+                        yN++;
+                    }
+                    break;
                 case ConsoleKey.Escape:
                     abandonar = true;
+                    break;
+                default:
+                    System.Console.WriteLine("Opción incorrecta");
                     break;
             }
         } while (!abandonar);
