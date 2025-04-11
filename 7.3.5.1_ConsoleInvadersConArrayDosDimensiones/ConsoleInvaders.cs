@@ -95,7 +95,9 @@ public class DibujarPartida
     protected const int capacidad = 9;
     protected int cantidad = 3;
     protected Enemigos[,] enemigos = new Enemigos[nivel, capacidad];
+    protected bool[,] alcanzado = new bool[nivel, capacidad];
     protected bool abandonar = false;
+    protected byte contador = 9;
 
     protected ConsoleKeyInfo key;
 
@@ -107,15 +109,34 @@ public class DibujarPartida
             {
                 x[i, j] = random.Next(3, Console.WindowWidth);
                 y[i, j] = random.Next(3, Console.WindowHeight);
+                alcanzado[i, j] = false;
             }
         }
 
         do
         {
+
             Console.Clear();
-            System.Console.WriteLine("Estás en una partida");
+            System.Console.WriteLine("Estás en una partida - Enemigos: {0}", contador);
+
+            for (int i = 0; i < nivel; i++)
+            {
+                for (int j = 0; j < cantidad; j++)
+                {
+                    if (xN == x[i, j] && yN == y[i, j])
+                    {
+                        alcanzado[i, j] = true;
+                        x[i, j] = 0;
+                        y[i, j] = 0;
+                        contador--;
+                    }
+
+                }
+
+            }
 
             Nave nave = new Nave(xN, yN);
+            Console.ForegroundColor = ConsoleColor.White;
             System.Console.WriteLine(nave.ToString());
 
             for (int i = 0; i < nivel; i++)
@@ -124,18 +145,28 @@ public class DibujarPartida
                 {
                     if (i == 0)
                     {
-                        enemigo = "]:[";
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        enemigos[i, j] = new Enemigos(x[i, j], y[i, j], "]:[");
+                        if (!alcanzado[i, j])
+                            System.Console.WriteLine(enemigos[i, j].ToString());
                     }
                     else if (i == 1)
                     {
-                        enemigo = "):(";
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        enemigos[i, j] = new Enemigos(x[i, j], y[i, j], "):(");
+                        if (!alcanzado[i, j])
+                            System.Console.WriteLine(enemigos[i, j].ToString());
+
                     }
-                    else
+                    else if (i == 2)
                     {
-                        enemigo = ">+<";
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        enemigos[i, j] = new Enemigos(x[i, j], y[i, j], ">+<");
+                        if (!alcanzado[i, j])
+                            System.Console.WriteLine(enemigos[i, j].ToString());
+
                     }
-                    enemigos[i, j] = new Enemigos(x[i, j], y[i, j], enemigo);
-                    System.Console.WriteLine(enemigos[i, j].ToString());
+
                 }
             }
 
@@ -145,13 +176,13 @@ public class DibujarPartida
             switch (key.Key)
             {
                 case ConsoleKey.LeftArrow:
-                    if (xN > 1)
+                    if (xN > 0)
                     {
                         xN--;
                     }
                     break;
                 case ConsoleKey.RightArrow:
-                    if (xN < Console.WindowWidth -3)
+                    if (xN < Console.WindowWidth - 3)
                     {
                         xN++;
                     }
@@ -176,6 +207,8 @@ public class DibujarPartida
                     break;
             }
         } while (!abandonar);
+
+        Console.ResetColor();
         Console.Clear();
     }
 }
