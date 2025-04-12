@@ -42,6 +42,36 @@ public class Bienvenida
     }
 }
 
+public class Win
+{
+
+    protected bool abandonar = false;
+    ConsoleKeyInfo key;
+    public Win()
+    {
+        do
+        {
+            Console.Clear();
+            System.Console.WriteLine("Has ganado la partida");
+            System.Console.WriteLine("Enter / Scape");
+
+            key = Console.ReadKey(true);
+
+            switch (key.Key)
+            {
+                case ConsoleKey.Enter:
+                    DibujarPartida dibujarPartida = new DibujarPartida();
+                    break;
+                case ConsoleKey.Escape:
+                    abandonar = true;
+                    break;
+            }
+        } while (!abandonar);
+    }
+
+
+}
+
 public class Despedida
 {
     public Despedida()
@@ -61,6 +91,7 @@ public class Nave
     }
     public string ToString()
     {
+        Console.ForegroundColor = ConsoleColor.White;
         Console.SetCursorPosition(x, y);
         return "}:{";
     }
@@ -86,7 +117,7 @@ public class Enemigos
 public class DibujarPartida
 {
     protected int xN = 0;
-    protected int yN = 1;
+    protected int yN = 2;
     protected int[,] x = new int[3, 9];
     protected int[,] y = new int[3, 9];
     protected string enemigo;
@@ -98,26 +129,24 @@ public class DibujarPartida
     protected bool[,] alcanzado = new bool[nivel, capacidad];
     protected bool abandonar = false;
     protected byte contador = 9;
-
     protected ConsoleKeyInfo key;
-
     public DibujarPartida()
     {
         for (int i = 0; i < nivel; i++)
         {
             for (int j = 0; j < cantidad; j++)
             {
-                x[i, j] = random.Next(3, Console.WindowWidth);
-                y[i, j] = random.Next(3, Console.WindowHeight);
+                x[i, j] = random.Next(3, Console.WindowWidth - 3);
+                y[i, j] = random.Next(2, Console.WindowHeight);
                 alcanzado[i, j] = false;
             }
         }
 
         do
         {
-
             Console.Clear();
-            System.Console.WriteLine("Estás en una partida - Enemigos: {0}", contador);
+            Console.ResetColor();
+
 
             for (int i = 0; i < nivel; i++)
             {
@@ -130,13 +159,13 @@ public class DibujarPartida
                         y[i, j] = 0;
                         contador--;
                     }
-
                 }
-
             }
 
+            Console.ForegroundColor = ConsoleColor.Blue;
+            System.Console.WriteLine("Estás en una partida - Enemigos: {0}", contador);
+
             Nave nave = new Nave(xN, yN);
-            Console.ForegroundColor = ConsoleColor.White;
             System.Console.WriteLine(nave.ToString());
 
             for (int i = 0; i < nivel; i++)
@@ -164,7 +193,6 @@ public class DibujarPartida
                         enemigos[i, j] = new Enemigos(x[i, j], y[i, j], ">+<");
                         if (!alcanzado[i, j])
                             System.Console.WriteLine(enemigos[i, j].ToString());
-
                     }
 
                 }
@@ -206,9 +234,16 @@ public class DibujarPartida
                     System.Console.WriteLine("Opción incorrecta");
                     break;
             }
-        } while (!abandonar);
+
+
+        } while (!abandonar && contador > 0);
 
         Console.ResetColor();
         Console.Clear();
+
+        if (contador == 0)
+        {
+            Win win = new Win();
+        }
     }
 }
