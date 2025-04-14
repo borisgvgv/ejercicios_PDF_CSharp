@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7.3.5.1_ConsoleInvadersConArrayDosDimenciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aae271487905eebd65c67f0aaceb8d72bbd3234")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91eeb5a7891a64efce1b6a06b57080f83cd13dcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("7.3.5.1_ConsoleInvadersConArrayDosDimenciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7.3.5.1_ConsoleInvadersConArrayDosDimenciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

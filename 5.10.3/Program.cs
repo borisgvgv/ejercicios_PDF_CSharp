@@ -17,7 +17,7 @@ class Program
         return Fibonacci(n - 1) + Fibonacci(n - 2); 
         // Lo que se suma es el resultado que devuelve cada función no la resta del número como tal
         // 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 
-        // Por ejemplo para el 6 estariamos hablando del 8, por lo que se suman 3 y 5 = 8
+        // Por ejemplo para el 6 estariamos hablando del 8, por lo que se suman 5 y 3 = 8
 
     }
     static void Main()
