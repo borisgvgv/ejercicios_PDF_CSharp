@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/7.4.1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/7.4.1.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/7.4.1.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/7.4.1.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/7.4.1.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/bin/Debug/net8.0/7.4.1
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/bin/Debug/net8.0/7.4.1.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/bin/Debug/net8.0/7.4.1.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/bin/Debug/net8.0/7.4.1.dll
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/bin/Debug/net8.0/7.4.1.pdb
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/7.4.1.dll
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/refint/7.4.1.dll
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/7.4.1.pdb
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/7.4.1.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.4.1_Trabajadores/obj/Debug/net8.0/ref/7.4.1.dll

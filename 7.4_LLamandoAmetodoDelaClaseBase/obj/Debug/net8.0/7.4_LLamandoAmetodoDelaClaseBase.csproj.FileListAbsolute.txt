@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/bin/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/bin/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/bin/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/bin/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.dll
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/bin/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.pdb
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.dll
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/refint/7.4_LLamandoAmetodoDelaClaseBase.dll
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.pdb
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/7.4_LLamandoAmetodoDelaClaseBase.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.4_LLamandoAmetodoDelaClaseBase/obj/Debug/net8.0/ref/7.4_LLamandoAmetodoDelaClaseBase.dll

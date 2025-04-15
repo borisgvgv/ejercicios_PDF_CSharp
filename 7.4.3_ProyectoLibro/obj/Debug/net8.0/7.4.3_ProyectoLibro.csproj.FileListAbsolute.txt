@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/7.4.3_ProyectoLibro.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/7.4.3_ProyectoLibro.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/7.4.3_ProyectoLibro.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/7.4.3_ProyectoLibro.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/7.4.3_ProyectoLibro.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/bin/Debug/net8.0/7.4.3_ProyectoLibro
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/bin/Debug/net8.0/7.4.3_ProyectoLibro.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/bin/Debug/net8.0/7.4.3_ProyectoLibro.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/bin/Debug/net8.0/7.4.3_ProyectoLibro.dll
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/bin/Debug/net8.0/7.4.3_ProyectoLibro.pdb
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/7.4.3_ProyectoLibro.dll
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/refint/7.4.3_ProyectoLibro.dll
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/7.4.3_ProyectoLibro.pdb
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/7.4.3_ProyectoLibro.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.4.3_ProyectoLibro/obj/Debug/net8.0/ref/7.4.3_ProyectoLibro.dll
