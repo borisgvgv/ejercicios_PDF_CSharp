@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/bin/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/bin/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/bin/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/bin/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.dll
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/bin/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.pdb
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.dll
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/refint/7.5_LaPalabra_this_ObjetoActual.dll
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.pdb
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/7.5_LaPalabra_this_ObjetoActual.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.5_LaPalabra_this_ObjetoActual/obj/Debug/net8.0/ref/7.5_LaPalabra_this_ObjetoActual.dll

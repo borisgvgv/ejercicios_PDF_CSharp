@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/bin/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/bin/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/bin/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/bin/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.dll
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/bin/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.pdb
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.dll
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/refint/7.5.0.5_DosjugadoresYAdversarios.dll
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.pdb
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/7.5.0.5_DosjugadoresYAdversarios.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.5.0.5_DosjugadoresYAdversarios/obj/Debug/net8.0/ref/7.5.0.5_DosjugadoresYAdversarios.dll
