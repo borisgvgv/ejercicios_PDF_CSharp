@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/7.5.3_casas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/7.5.3_casas.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/7.5.3_casas.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/7.5.3_casas.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/7.5.3_casas.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/bin/Debug/net8.0/7.5.3_casas
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/bin/Debug/net8.0/7.5.3_casas.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/bin/Debug/net8.0/7.5.3_casas.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/bin/Debug/net8.0/7.5.3_casas.dll
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/bin/Debug/net8.0/7.5.3_casas.pdb
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/7.5.3_casas.dll
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/refint/7.5.3_casas.dll
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/7.5.3_casas.pdb
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/7.5.3_casas.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.5.3_casas/obj/Debug/net8.0/ref/7.5.3_casas.dll
