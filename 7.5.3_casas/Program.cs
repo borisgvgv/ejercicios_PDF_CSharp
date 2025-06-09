@@ -33,7 +33,7 @@ public class Casas
 
     public void MostrarEstado()
     {
-        System.Console.WriteLine($"{superficie} m\u00B2");
+        System.Console.WriteLine($" Superficie: {superficie} m\u00B2");
     }
 }
 
@@ -47,9 +47,9 @@ public class Puertas
     public Puertas(int alto, int ancho)
     {
         this.alto = alto;
-        this.ancho = ancho;
+        this.ancho = ancho; 
     }
-
+ 
     public void MostrarEstado()
     {
         System.Console.WriteLine($"Alto: {alto} cm");
@@ -66,35 +66,91 @@ public class Archivo
     protected Puertas[,] puerta = new Puertas[capacidadCasas, capacidadPuertas];
     protected bool salir = false;
     protected byte opcion;
+    protected int superficie;
+    protected int[] puertasAdd = new int[10000];
+
 
     public Archivo()
     {
         do
         {
-            System.Console.WriteLine("Menú");
-            System.Console.WriteLine("1: Add datos de casa");
-            System.Console.WriteLine("2: Mostrar datos");
-            System.Console.WriteLine("0: Salir");
 
-            opcion = Convert.ToByte(Console.ReadLine());
-            switch (opcion)
+            if (cantidadCasas < capacidadCasas)
             {
-                case 1:
-                    System.Console.WriteLine("Add datos de casa {0}", cantidadCasas + 1 );
-               
 
-                    break;
-                case 2:
-                    System.Console.WriteLine("Mostrar datos de casa");
+                System.Console.WriteLine("Menú");
+                System.Console.WriteLine("1: Add datos de casa");
+                System.Console.WriteLine("2: Mostrar datos");
+                System.Console.WriteLine("0: Salir");
 
-                    break;
-                case 0:
-                    salir = true;
-                    break;
-                default:
-                    System.Console.WriteLine("Opción incorrecta");
-                    break;
+                opcion = Convert.ToByte(Console.ReadLine());
+                Console.Clear();
+                
+                switch (opcion)
+                {
+                    case 1:
+
+                        try
+                        {
+                            System.Console.WriteLine("Add datos de casa {0}", cantidadCasas + 1);
+                            System.Console.Write("Superficie: ");
+                            superficie = Convert.ToInt32(Console.ReadLine());
+                            casa[cantidadCasas] = new Casas(superficie);
+
+                            System.Console.WriteLine("Cantidad de puertas {0}", cantidadCasas + 1);
+                            puertasAdd[cantidadCasas] = Convert.ToInt32(Console.ReadLine());
+
+                            for (int i = 0; i < puertasAdd[cantidadCasas]; i++)
+                            {
+                                System.Console.WriteLine("Alto puerta {0}", i + 1);
+                                int alto = Convert.ToInt32(Console.ReadLine());
+                                System.Console.WriteLine("Ancho puerta {0}", i + 1);
+                                int ancho = Convert.ToInt32(Console.ReadLine());
+
+                                puerta[cantidadCasas, i] = new Puertas(alto, ancho);
+                            }
+                            cantidadCasas++;
+                        }
+                        catch (System.FormatException)
+                        {
+                            System.Console.WriteLine("Error de formato");
+                        }
+
+                        break;
+
+                    case 2:
+
+                        Console.Clear();
+                        System.Console.WriteLine("Mostrar datos de casas ");
+                        System.Console.WriteLine(); // Separador
+
+                        for (int i = 0; i < cantidadCasas; i++)
+                        {
+                            System.Console.WriteLine("Casa: {0}", i + 1);
+                            casa[i].MostrarEstado();
+
+                            for (int j = 0; j < puertasAdd[i]; j++)
+                            {
+                                System.Console.WriteLine("Puerta {0}", j + 1);
+                                puerta[i, j].MostrarEstado();
+                            }
+                            System.Console.WriteLine();// Separador
+                        }
+                        break;
+
+                    case 0:
+                        salir = true;
+                        break;
+                    default:
+                        System.Console.WriteLine("Opción incorrecta");
+                        break;
+                }
             }
+            else
+            {
+                System.Console.WriteLine("No es posible add más casas");
+            }
+
 
         } while (!salir);
 
@@ -104,8 +160,6 @@ public class Archivo
     {
 
     }
-
-
 
 }
 
