@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/7.6.0_SobreCargaDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/7.6.0_SobreCargaDeOperadores.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/7.6.0_SobreCargaDeOperadores.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/7.6.0_SobreCargaDeOperadores.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/7.6.0_SobreCargaDeOperadores.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/bin/Debug/net8.0/7.6.0_SobreCargaDeOperadores
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/bin/Debug/net8.0/7.6.0_SobreCargaDeOperadores.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/bin/Debug/net8.0/7.6.0_SobreCargaDeOperadores.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/bin/Debug/net8.0/7.6.0_SobreCargaDeOperadores.dll
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/bin/Debug/net8.0/7.6.0_SobreCargaDeOperadores.pdb
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/7.6.0_SobreCargaDeOperadores.dll
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/refint/7.6.0_SobreCargaDeOperadores.dll
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/7.6.0_SobreCargaDeOperadores.pdb
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/7.6.0_SobreCargaDeOperadores.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.6.0_SobreCargaDeOperadores/obj/Debug/net8.0/ref/7.6.0_SobreCargaDeOperadores.dll
