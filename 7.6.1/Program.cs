@@ -16,6 +16,7 @@ public class Program
         Matriz matriz_1 = new Matriz(3);
         Matriz matriz_2 = new Matriz(3);
 
+        // matriz_1
         matriz_1.Set(0, 0, 1);
         matriz_1.Set(0, 1, 2);
         matriz_1.Set(0, 2, 3);
@@ -28,6 +29,7 @@ public class Program
         matriz_1.Set(2, 1, 8);
         matriz_1.Set(2, 2, 9);
 
+        // matriz_2
         matriz_2.Set(0, 0, 10);
         matriz_2.Set(0, 1, 11);
         matriz_2.Set(0, 2, 12);
@@ -39,6 +41,8 @@ public class Program
         matriz_2.Set(2, 0, 16);
         matriz_2.Set(2, 1, 17);
         matriz_2.Set(2, 2, 18);
+
+
 
         Matriz resultado = matriz_1 + matriz_2;
         System.Console.WriteLine("Resultado de la suma entre matriz_1 y matriz_2");
@@ -53,16 +57,17 @@ public class Matriz
     protected int tamanyo;
 
     //Constructor
+    // Aquí creo una posición en "datos = new int[tamanyo, tamanyo];" donde poder poner un dato 
     public Matriz(int tamanyo)
     {
         this.tamanyo = tamanyo;
         datos = new int[tamanyo, tamanyo];
     }
 
-    //Método para obtener un valor
+    //Método para obtener los valores la posición donde estarán los valores de los datos dentro del array
     public int Get(int x, int y) => datos[x, y];
 
-    //Metodo para pasar un valor
+    //Metodo para pasar un valor y añadirlo a la posición [x,y] que indiquemos dentro del array
     public void Set(int x, int y, int valor) => datos[x, y] = valor;
 
     //Sobrecarga del operador
@@ -70,13 +75,13 @@ public class Matriz
     {
         Matriz resultado = new Matriz(mat1.tamanyo);
 
-        for (int i = 0; i < mat1.tamanyo; i++)
+        for (int x = 0; x < mat1.tamanyo; x++)
         {
-            for (int j = 0; j < mat1.tamanyo; j++)
+            for (int y = 0; y < mat1.tamanyo; y++)
             {
-                resultado.Set(i, j, mat1.Get(i, j) + mat2.Get(i, j));
+                resultado.Set(x, y, mat1.Get(x, y) + mat2.Get(x, y));
             }
-            
+
         }
         return resultado;
     }
@@ -84,11 +89,11 @@ public class Matriz
     //Mostrar la matriz por consola
     public void Mostrar()
     {
-        for (int i = 0; i < tamanyo; i++)
+        for (int x = 0; x < tamanyo; x++)
         {
-            for (int j = 0; j < tamanyo; j++)
+            for (int y = 0; y < tamanyo; y++)
             {
-                System.Console.WriteLine(Get(i, j) + "\t");
+                System.Console.WriteLine(Get(x, y) + "\t");
                 System.Console.WriteLine();//salto de linea
             }
         }

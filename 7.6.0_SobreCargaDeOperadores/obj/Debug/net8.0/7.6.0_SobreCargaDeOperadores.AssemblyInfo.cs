@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7.6.0_SobreCargaDeOperadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e5ac33dd2b018f8627f6c511ef21b6e49818af9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83c5b48c6e9f4d91d644fa00ddcbdf7a04ec6034")]
 [assembly: System.Reflection.AssemblyProductAttribute("7.6.0_SobreCargaDeOperadores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7.6.0_SobreCargaDeOperadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

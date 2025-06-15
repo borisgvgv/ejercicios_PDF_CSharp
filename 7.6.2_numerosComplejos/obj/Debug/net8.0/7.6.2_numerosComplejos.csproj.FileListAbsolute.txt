@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/7.6.2_numerosComplejos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/7.6.2_numerosComplejos.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/7.6.2_numerosComplejos.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/7.6.2_numerosComplejos.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/7.6.2_numerosComplejos.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/bin/Debug/net8.0/7.6.2_numerosComplejos
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/bin/Debug/net8.0/7.6.2_numerosComplejos.deps.json
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/bin/Debug/net8.0/7.6.2_numerosComplejos.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/bin/Debug/net8.0/7.6.2_numerosComplejos.dll
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/bin/Debug/net8.0/7.6.2_numerosComplejos.pdb
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/7.6.2_numerosComplejos.dll
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/refint/7.6.2_numerosComplejos.dll
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/7.6.2_numerosComplejos.pdb
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/7.6.2_numerosComplejos.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/7.6.2_numerosComplejos/obj/Debug/net8.0/ref/7.6.2_numerosComplejos.dll
