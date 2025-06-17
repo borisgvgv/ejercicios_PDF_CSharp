@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/bin/Debug/net8.0/8.0_ManejoDeFicheros
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/bin/Debug/net8.0/8.0_ManejoDeFicheros.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/bin/Debug/net8.0/8.0_ManejoDeFicheros.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/bin/Debug/net8.0/8.0_ManejoDeFicheros.dll
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/bin/Debug/net8.0/8.0_ManejoDeFicheros.pdb
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/8.0_ManejoDeFicheros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/8.0_ManejoDeFicheros.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/8.0_ManejoDeFicheros.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/8.0_ManejoDeFicheros.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/8.0_ManejoDeFicheros.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/8.0_ManejoDeFicheros.dll
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/refint/8.0_ManejoDeFicheros.dll
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/8.0_ManejoDeFicheros.pdb
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/8.0_ManejoDeFicheros.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.0_ManejoDeFicheros/obj/Debug/net8.0/ref/8.0_ManejoDeFicheros.dll
