@@ -6,7 +6,7 @@ public class LeerFicha
 {
     public LeerFicha()
     {
-        //Leer fichero
+        
         using (StreamReader leerFichero = new StreamReader("registroDeUsuario.txt"))
         {
             string linea;
