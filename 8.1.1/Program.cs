@@ -24,25 +24,13 @@ public class Program
 {
     public static void Main()
     {
-
-        string texto = "";
-        StreamWriter registroDeUsuario = new StreamWriter("registroDeUsuario.txt");
-
-        do
-        {
-            Console.WriteLine("Introduce un texto");
-            texto = Console.ReadLine();
-            if (texto != "fin")
-            {
-                registroDeUsuario.WriteLine(texto);
-                registroDeUsuario.WriteLine();
-            }
-
-        } while (texto != "fin");
-
-        registroDeUsuario.Close();
+        CrearFicha ficha = new CrearFicha();
+        ficha.MostrarEstado();
+        LeerFicha leer = new LeerFicha();
+        leer.MostrarEstado();
 
     }
+
 }
 
 
