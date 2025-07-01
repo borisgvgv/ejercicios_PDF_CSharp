@@ -6,7 +6,7 @@ public class LeerFicha
 {
     public LeerFicha()
     {
-        
+
         using (StreamReader leerFichero = new StreamReader("registroDeUsuario.txt"))
         {
             string linea;
@@ -16,11 +16,4 @@ public class LeerFicha
             }
         }
     }
-
-    public void MostrarEstado()
-    {
-        
-    }
-
-
 }

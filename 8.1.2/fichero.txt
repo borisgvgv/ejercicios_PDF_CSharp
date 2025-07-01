@@ -1,0 +1,5 @@
+Nombre: Julia, Tamaño: 10000
+Nombre: Adiran, Tamaño: 20000
+Nombre: Pepe, Tamaño: 30000
+Nombre: Ruben, Tamaño: 40000
+Nombre: Lula, Tamaño: 50000

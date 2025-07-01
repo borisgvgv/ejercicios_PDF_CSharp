@@ -25,13 +25,17 @@ public class Program
     public static void Main()
     {
         CrearFicha ficha = new CrearFicha();
-        ficha.MostrarEstado();
+        
         LeerFicha leer = new LeerFicha();
-        leer.MostrarEstado();
-
+    
+        AddDatos addDato = new AddDatos();
+      
+        LeerFicha leer2 = new LeerFicha();
+    
     }
-
 }
+
+
 
 
 

@@ -22,10 +22,4 @@ public class CrearFicha
         registroDeUsuario.Close();
 
     }
-
-    public void MostrarEstado()
-    {
-        
-    }
-    
 }

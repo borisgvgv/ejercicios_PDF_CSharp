@@ -30,8 +30,8 @@ class Ejemplo_04_06a
     }
     static void Main()
     {
-        tipoFicha[] fichas // Los datos en si
-        = new tipoFicha[1000];
+        //Creamos ficha donde se guardarán los archivos
+        tipoFicha[] fichas = new tipoFicha[1000];
         int numeroFichas = 0; // Número de fichas que ya tenemos
         int opcion; // La opcion del menú que elija el usuario
         string textoBuscar; // Para cuando preguntemos al usuario
