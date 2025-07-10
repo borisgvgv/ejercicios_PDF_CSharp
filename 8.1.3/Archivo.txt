@@ -1,0 +1,3 @@
+Titulo: Libro1, Autor: Autor1, Año de lanzamiento 1000
+Titulo: Libro2, Autor: Autor2, Año de lanzamiento 2000
+Titulo: Libro3, Autor: Autor3, Año de lanzamiento 3000

@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/bin/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/bin/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/bin/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/bin/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.dll
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/bin/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.pdb
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.dll
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/refint/8.3.6.1_EjemploDeUsoDeUnaLista.dll
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.pdb
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/8.3.6.1_EjemploDeUsoDeUnaLista.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.3.6.1_EjemploDeUsoDeUnaLista/obj/Debug/net8.0/ref/8.3.6.1_EjemploDeUsoDeUnaLista.dll

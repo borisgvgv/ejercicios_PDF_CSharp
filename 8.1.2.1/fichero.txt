@@ -1,0 +1,3 @@
+Nombre: A, Tamaño: 10000
+Nombre: B, Tamaño: 2000
+Nombre: C, Tamaño: 30000
