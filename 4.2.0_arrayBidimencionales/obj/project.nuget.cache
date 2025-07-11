@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "H8Yp7x6HcIlk0R8Uq6z07+rMURvfy+QHyb7VFCtkPUA27FplBYPmwZdVYaL8XNA84Tvp+gOb9ZzEzie2BjuDWg==",
+  "dgSpecHash": "2FsvWGS+LqA=",
   "success": true,
-  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/420_arrayBidimencionales/420_arrayBidimencionales.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/4.2.0_arrayBidimencionales/420_arrayBidimencionales.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

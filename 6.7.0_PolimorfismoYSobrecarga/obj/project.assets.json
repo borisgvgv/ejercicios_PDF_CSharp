@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/6.6.7_PolimorfismoYSobrecarga/6.6.7_PolimorfismoYSobrecarga.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/6.7.0_PolimorfismoYSobrecarga/6.6.7_PolimorfismoYSobrecarga.csproj",
       "projectName": "6.6.7_PolimorfismoYSobrecarga",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/6.6.7_PolimorfismoYSobrecarga/6.6.7_PolimorfismoYSobrecarga.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/6.7.0_PolimorfismoYSobrecarga/6.6.7_PolimorfismoYSobrecarga.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/6.6.7_PolimorfismoYSobrecarga/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/6.7.0_PolimorfismoYSobrecarga/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

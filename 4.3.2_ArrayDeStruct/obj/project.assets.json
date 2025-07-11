@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/432_ArrayDeStruct.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/4.3.2_ArrayDeStruct/432_ArrayDeStruct.csproj",
       "projectName": "432_ArrayDeStruct",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/432_ArrayDeStruct.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/4.3.2_ArrayDeStruct/432_ArrayDeStruct.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/432_ArrayDeStruct/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/4.3.2_ArrayDeStruct/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -78,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

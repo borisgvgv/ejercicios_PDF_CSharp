@@ -11,8 +11,10 @@ class Ejemplo_05_12c
 {
     static void Main()
     {
+        Console.Clear();
+
         Console.Write("Introduce números separados por espacios: ");
-        string[] datos = Console.ReadLine().Split();
+        string[] datos = Console.ReadLine();
         int suma = 0;
         Array.ForEach(datos, n => suma += Convert.ToInt32(n));
         Console.WriteLine(suma);

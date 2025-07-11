@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/530.0_parametrosDeUnaFuncion.csproj": {}
+    "/workspaces/ejercicios_PDF_CSharp/5.3_parametrosDeUnaFuncion/530.0_parametrosDeUnaFuncion.csproj": {}
   },
   "projects": {
-    "/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/530.0_parametrosDeUnaFuncion.csproj": {
+    "/workspaces/ejercicios_PDF_CSharp/5.3_parametrosDeUnaFuncion/530.0_parametrosDeUnaFuncion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/530.0_parametrosDeUnaFuncion.csproj",
+        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/5.3_parametrosDeUnaFuncion/530.0_parametrosDeUnaFuncion.csproj",
         "projectName": "530.0_parametrosDeUnaFuncion",
-        "projectPath": "/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/530.0_parametrosDeUnaFuncion.csproj",
+        "projectPath": "/workspaces/ejercicios_PDF_CSharp/5.3_parametrosDeUnaFuncion/530.0_parametrosDeUnaFuncion.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ejercicios_PDF_CSharp/530.0_parametrosDeUnaFuncion/obj/",
+        "outputPath": "/workspaces/ejercicios_PDF_CSharp/5.3_parametrosDeUnaFuncion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

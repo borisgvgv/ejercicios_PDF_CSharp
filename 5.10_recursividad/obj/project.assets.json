@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/5100_recursividad/5100_recursividad.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/5.10_recursividad/5100_recursividad.csproj",
       "projectName": "5100_recursividad",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/5100_recursividad/5100_recursividad.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/5.10_recursividad/5100_recursividad.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/5100_recursividad/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/5.10_recursividad/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -78,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

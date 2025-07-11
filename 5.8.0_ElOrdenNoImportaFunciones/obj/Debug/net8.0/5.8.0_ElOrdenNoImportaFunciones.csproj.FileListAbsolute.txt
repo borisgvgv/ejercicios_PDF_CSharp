@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/bin/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/bin/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.deps.json
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/bin/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/bin/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.dll
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/bin/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.pdb
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.dll
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/refint/5.8.0_ElOrdenNoImportaFunciones.dll
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.pdb
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/5.8.0_ElOrdenNoImportaFunciones.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/5.8.0_ElOrdenNoImportaFunciones/obj/Debug/net8.0/ref/5.8.0_ElOrdenNoImportaFunciones.dll

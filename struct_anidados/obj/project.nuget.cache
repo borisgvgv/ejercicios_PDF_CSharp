@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sr7/oDV0nwm7ae0FYNbEBa9x5ZmLd5Z7/xOR22utNS0APrxlZlslnMxYmwaG6OgEAsuS3K/I2b+z6a4/ZnHM6g==",
+  "dgSpecHash": "wirMA5NP9Lw=",
   "success": true,
   "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/struct_anidados/struct_anidados.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

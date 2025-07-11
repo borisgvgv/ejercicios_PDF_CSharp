@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/470.2/470.2.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/4.7.2/470.2.csproj",
       "projectName": "470.2",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/470.2/470.2.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/4.7.2/470.2.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/470.2/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/4.7.2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

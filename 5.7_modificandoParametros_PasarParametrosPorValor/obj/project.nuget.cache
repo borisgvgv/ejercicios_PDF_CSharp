@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6I1fMAJ1Lk=",
+  "dgSpecHash": "N92wcNACoUw=",
   "success": true,
-  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/570.0_modificandoParametros/570.0_modificandoParametros.csproj",
+  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/5.7_modificandoParametros_PasarParametrosPorValor/570.0_modificandoParametros.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

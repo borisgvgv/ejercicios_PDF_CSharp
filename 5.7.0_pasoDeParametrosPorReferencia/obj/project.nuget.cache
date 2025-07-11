@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M7oF1YxP1TM=",
+  "dgSpecHash": "qJYqexkGZPU=",
   "success": true,
-  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/570.2.0/570.2.0.csproj",
+  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/5.7.0_pasoDeParametrosPorReferencia/570.2.0.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

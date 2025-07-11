@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sXaadrFGKyX4LceO/PGTeGGHenRKYja5sc/KVdNS1Cfavt08Wi209r1oIaBi1+2bi2/NVkVM9mjNWfLd/1BhfQ==",
+  "dgSpecHash": "mBjj012p/VM=",
   "success": true,
-  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/312_conversiones_de_cadena_a_entero/312_conversiones_de_cadena_a_entero.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/3.1.2_conversiones_de_cadena_a_entero/312_conversiones_de_cadena_a_entero.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

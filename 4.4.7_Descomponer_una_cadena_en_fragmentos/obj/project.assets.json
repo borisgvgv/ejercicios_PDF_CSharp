@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/447_Descomponer_una_cadena_en_fragmentos/447_Descomponer_una_cadena_en_fragmentos.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/447_Descomponer_una_cadena_en_fragmentos.csproj",
       "projectName": "447_Descomponer_una_cadena_en_fragmentos",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/447_Descomponer_una_cadena_en_fragmentos/447_Descomponer_una_cadena_en_fragmentos.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/447_Descomponer_una_cadena_en_fragmentos.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/447_Descomponer_una_cadena_en_fragmentos/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -78,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

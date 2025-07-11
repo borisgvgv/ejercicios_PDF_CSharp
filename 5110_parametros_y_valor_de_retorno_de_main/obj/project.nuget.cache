@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2uJBnIyCw350imOFAh+riLCj+zt3S7QQr5ubSDffEJ/a8tjM7pJxA4TxLfT0qTxM5kXYAQW601W9KSzGG7aXCA==",
+  "dgSpecHash": "HvNn2k/k7PA=",
   "success": true,
   "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/5110_parametros_y_valor_de_retorno_de_main/5110_parametros_y_valor_de_retorno_de_main.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _593_funciones_lambda_o_anonimas
-build_property.ProjectDir = /workspaces/ejercicios_PDF_CSharp/593_funciones_lambda_o_anonimas/
+build_property.ProjectDir = /workspaces/ejercicios_PDF_CSharp/5.9.3_funciones_lambda_o_anonimas/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

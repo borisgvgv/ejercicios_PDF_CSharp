@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kyQNM+AFxa/nN6sGoo3XyTSOHY/jaGGnxW6Zjpz8YhXYsG82cyrihQ2gUWstrrQlwMStOTmcjPDe86zp6S712g==",
+  "dgSpecHash": "IvxulXdsg30=",
   "success": true,
-  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/449_una_cadena_modificable_StringBuilder/449_una_cadena_modificable_StringBuilder.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/4.4.9.0_una_cadena_modificable_StringBuilder/449_una_cadena_modificable_StringBuilder.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

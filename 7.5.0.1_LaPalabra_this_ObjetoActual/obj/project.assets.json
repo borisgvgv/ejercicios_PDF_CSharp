@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/7.5.1_LaPalabra_this_ObjetoActual/7.5.1_LaPalabra_this_ObjetoActual.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/7.5.0.1_LaPalabra_this_ObjetoActual/7.5.1_LaPalabra_this_ObjetoActual.csproj",
       "projectName": "7.5.1_LaPalabra_this_ObjetoActual",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/7.5.1_LaPalabra_this_ObjetoActual/7.5.1_LaPalabra_this_ObjetoActual.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/7.5.0.1_LaPalabra_this_ObjetoActual/7.5.1_LaPalabra_this_ObjetoActual.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/7.5.1_LaPalabra_this_ObjetoActual/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/7.5.0.1_LaPalabra_this_ObjetoActual/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

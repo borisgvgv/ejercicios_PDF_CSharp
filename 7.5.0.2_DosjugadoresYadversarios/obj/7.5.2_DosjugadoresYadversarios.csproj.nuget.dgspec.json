@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ejercicios_PDF_CSharp/7.5.2_DosjugadoresYadversarios/7.5.2_DosjugadoresYadversarios.csproj": {}
+    "/workspaces/ejercicios_PDF_CSharp/7.5.0.2_DosjugadoresYadversarios/7.5.2_DosjugadoresYadversarios.csproj": {}
   },
   "projects": {
-    "/workspaces/ejercicios_PDF_CSharp/7.5.2_DosjugadoresYadversarios/7.5.2_DosjugadoresYadversarios.csproj": {
+    "/workspaces/ejercicios_PDF_CSharp/7.5.0.2_DosjugadoresYadversarios/7.5.2_DosjugadoresYadversarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/7.5.2_DosjugadoresYadversarios/7.5.2_DosjugadoresYadversarios.csproj",
+        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/7.5.0.2_DosjugadoresYadversarios/7.5.2_DosjugadoresYadversarios.csproj",
         "projectName": "7.5.2_DosjugadoresYadversarios",
-        "projectPath": "/workspaces/ejercicios_PDF_CSharp/7.5.2_DosjugadoresYadversarios/7.5.2_DosjugadoresYadversarios.csproj",
+        "projectPath": "/workspaces/ejercicios_PDF_CSharp/7.5.0.2_DosjugadoresYadversarios/7.5.2_DosjugadoresYadversarios.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ejercicios_PDF_CSharp/7.5.2_DosjugadoresYadversarios/obj/",
+        "outputPath": "/workspaces/ejercicios_PDF_CSharp/7.5.0.2_DosjugadoresYadversarios/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

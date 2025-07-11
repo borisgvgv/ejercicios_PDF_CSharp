@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ejercicios_PDF_CSharp/446_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj": {}
+    "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj": {}
   },
   "projects": {
-    "/workspaces/ejercicios_PDF_CSharp/446_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj": {
+    "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/446_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj",
+        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj",
         "projectName": "446_otras_manipulaciones_de_cadenas",
-        "projectPath": "/workspaces/ejercicios_PDF_CSharp/446_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj",
+        "projectPath": "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/446_otras_manipulaciones_de_cadenas.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ejercicios_PDF_CSharp/446_otras_manipulaciones_de_cadenas/obj/",
+        "outputPath": "/workspaces/ejercicios_PDF_CSharp/4.4.6_otras_manipulaciones_de_cadenas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/RuntimeIdentifierGraph.json"
         }
       }
     }

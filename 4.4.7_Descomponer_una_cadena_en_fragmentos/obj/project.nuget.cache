@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQZA3FhmHlA=",
+  "dgSpecHash": "9FVQmnGPjYs=",
   "success": true,
-  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/447_Descomponer_una_cadena_en_fragmentos/447_Descomponer_una_cadena_en_fragmentos.csproj",
+  "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/4.4.7_Descomponer_una_cadena_en_fragmentos/447_Descomponer_una_cadena_en_fragmentos.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/520.0_conceptoBásicoSobreFunciones/520.0.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/5.2_conceptoBásicoSobreFunciones/520.0.csproj",
       "projectName": "520.0",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/520.0_conceptoBásicoSobreFunciones/520.0.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/5.2_conceptoBásicoSobreFunciones/520.0.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/520.0_conceptoBásicoSobreFunciones/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/5.2_conceptoBásicoSobreFunciones/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

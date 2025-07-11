@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("struct_anidados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dba2a9fadf62cb25b93f3f350e2b575999ed03f")]
 [assembly: System.Reflection.AssemblyProductAttribute("struct_anidados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("struct_anidados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

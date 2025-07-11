@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/470.0_OrdenacionesSimples.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/4.7._OrdenacionesSimples/470.0_OrdenacionesSimples.csproj",
       "projectName": "470.0_OrdenacionesSimples",
-      "projectPath": "/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/470.0_OrdenacionesSimples.csproj",
+      "projectPath": "/workspaces/ejercicios_PDF_CSharp/4.7._OrdenacionesSimples/470.0_OrdenacionesSimples.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_PDF_CSharp/470.0_OrdenacionesSimples/obj/",
+      "outputPath": "/workspaces/ejercicios_PDF_CSharp/4.7._OrdenacionesSimples/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

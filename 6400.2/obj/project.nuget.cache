@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pnx6Bsat6uypPXLOVB1l2MgpQXcRGBDnMjtPZ7n8K0cDsg6CJ+CJ2d1e+0j8EnyBX3d2PCCrYEGvG7EvX9O6Fw==",
+  "dgSpecHash": "QKqA35wT51Q=",
   "success": true,
   "projectFilePath": "/workspaces/ejercicios_PDF_CSharp/6400.2/6400.2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

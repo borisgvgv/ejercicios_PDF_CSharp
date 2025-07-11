@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ejercicios_PDF_CSharp/460.7_ordenarAlfabeticamente/460.7.csproj": {}
+    "/workspaces/ejercicios_PDF_CSharp/4.6.7_ordenarAlfabeticamente/460.7.csproj": {}
   },
   "projects": {
-    "/workspaces/ejercicios_PDF_CSharp/460.7_ordenarAlfabeticamente/460.7.csproj": {
+    "/workspaces/ejercicios_PDF_CSharp/4.6.7_ordenarAlfabeticamente/460.7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/460.7_ordenarAlfabeticamente/460.7.csproj",
+        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/4.6.7_ordenarAlfabeticamente/460.7.csproj",
         "projectName": "460.7",
-        "projectPath": "/workspaces/ejercicios_PDF_CSharp/460.7_ordenarAlfabeticamente/460.7.csproj",
+        "projectPath": "/workspaces/ejercicios_PDF_CSharp/4.6.7_ordenarAlfabeticamente/460.7.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ejercicios_PDF_CSharp/460.7_ordenarAlfabeticamente/obj/",
+        "outputPath": "/workspaces/ejercicios_PDF_CSharp/4.6.7_ordenarAlfabeticamente/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
