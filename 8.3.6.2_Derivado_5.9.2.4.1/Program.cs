@@ -14,6 +14,20 @@ public class Program
     {
 
         int[] numeros = new int[5];
+
+        AddNúmeros(ref numeros);
+
+        //Añade un nuevo número
+        System.Console.WriteLine("Añade un nuevo número");
+        int newNumero = Convert.ToInt32(System.Console.ReadLine());
+        System.Console.WriteLine($"El nuevo número añadido es el {newNumero}.");
+
+        Evaluar(ref numeros, ref newNumero);
+
+    }
+
+    private static void AddNúmeros(ref int[] numeros)
+    {
         int contador = 0;
         int addNum;
 
@@ -33,28 +47,17 @@ public class Program
             }
         }
 
-
-        //Añade un nuevo número
-        System.Console.WriteLine("Añade un nuevo número");
-        int newNumero = Convert.ToInt32(System.Console.ReadLine());
-        System.Console.WriteLine($"El nuevo número añadido es el {newNumero}.");
-
-        Evaluar(ref numeros, ref newNumero);
-
-    }
-
-    public static void Evaluar(ref int[] numeros, ref int newNumero)
-    {
         System.Console.WriteLine("Los número elegidos son:");
         foreach (int numero in numeros)
         {
             System.Console.Write($"{numero} ");
         }
-
         System.Console.WriteLine(); // salto de línea
 
+    }
 
-        //-----------------------------------
+    public static void Evaluar(ref int[] numeros, ref int newNumero)
+    {
 
         int mayor = numeros[0];
         for (int i = 0; i < numeros.Length; i++)
