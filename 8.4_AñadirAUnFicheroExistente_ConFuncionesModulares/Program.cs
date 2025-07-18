@@ -26,8 +26,6 @@ public class Program
 //Función modular CrearFicha
     public static void CrearFicha(ref StreamWriter fichero, ref string nombreFicha)
     {
-
-
         fichero.WriteLine("Primera Linea");
         fichero.Close();
     }
@@ -41,6 +39,7 @@ public class Program
         fichero.WriteLine(texto);
         fichero.Close();
     }
+
 
 //Función modular LeerFicha
     public static void LeerFicha(ref StreamReader leerFichero, ref string nombreFicha)
