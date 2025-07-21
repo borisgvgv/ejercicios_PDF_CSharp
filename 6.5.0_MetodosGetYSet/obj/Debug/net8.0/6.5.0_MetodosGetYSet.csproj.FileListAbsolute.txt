@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/6.5.0_MetodosGetYSet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/6.5.0_MetodosGetYSet.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/6.5.0_MetodosGetYSet.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/6.5.0_MetodosGetYSet.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/6.5.0_MetodosGetYSet.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/bin/Debug/net8.0/6.5.0_MetodosGetYSet
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/bin/Debug/net8.0/6.5.0_MetodosGetYSet.deps.json
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/bin/Debug/net8.0/6.5.0_MetodosGetYSet.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/bin/Debug/net8.0/6.5.0_MetodosGetYSet.dll
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/bin/Debug/net8.0/6.5.0_MetodosGetYSet.pdb
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/6.5.0_MetodosGetYSet.dll
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/refint/6.5.0_MetodosGetYSet.dll
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/6.5.0_MetodosGetYSet.pdb
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/6.5.0_MetodosGetYSet.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/6.5.0_MetodosGetYSet/obj/Debug/net8.0/ref/6.5.0_MetodosGetYSet.dll

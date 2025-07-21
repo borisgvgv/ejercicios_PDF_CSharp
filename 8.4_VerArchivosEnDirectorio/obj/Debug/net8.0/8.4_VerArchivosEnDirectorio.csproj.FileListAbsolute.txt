@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio.pdb
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/refint/8.4_VerArchivosEnDirectorio.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio.pdb
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio/obj/Debug/net8.0/ref/8.4_VerArchivosEnDirectorio.dll

@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/bin/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/bin/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/bin/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/bin/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/bin/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.pdb
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/refint/8.4_VerArchivosEnDirectorioConLista.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.pdb
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/8.4_VerArchivosEnDirectorioConLista.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorioConLista/obj/Debug/net8.0/ref/8.4_VerArchivosEnDirectorioConLista.dll
