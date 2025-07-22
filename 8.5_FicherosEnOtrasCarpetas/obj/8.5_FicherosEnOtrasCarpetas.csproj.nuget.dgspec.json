@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ejercicios_PDF_CSharp/8.4_VerArcivosEnDirectorio.1/8.4_VerArcivosEnDirectorio.1.csproj": {}
+    "/workspaces/ejercicios_PDF_CSharp/8.5_FicherosEnOtrasCarpetas/8.5_FicherosEnOtrasCarpetas.csproj": {}
   },
   "projects": {
-    "/workspaces/ejercicios_PDF_CSharp/8.4_VerArcivosEnDirectorio.1/8.4_VerArcivosEnDirectorio.1.csproj": {
+    "/workspaces/ejercicios_PDF_CSharp/8.5_FicherosEnOtrasCarpetas/8.5_FicherosEnOtrasCarpetas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/8.4_VerArcivosEnDirectorio.1/8.4_VerArcivosEnDirectorio.1.csproj",
-        "projectName": "8.4_VerArcivosEnDirectorio.1",
-        "projectPath": "/workspaces/ejercicios_PDF_CSharp/8.4_VerArcivosEnDirectorio.1/8.4_VerArcivosEnDirectorio.1.csproj",
+        "projectUniqueName": "/workspaces/ejercicios_PDF_CSharp/8.5_FicherosEnOtrasCarpetas/8.5_FicherosEnOtrasCarpetas.csproj",
+        "projectName": "8.5_FicherosEnOtrasCarpetas",
+        "projectPath": "/workspaces/ejercicios_PDF_CSharp/8.5_FicherosEnOtrasCarpetas/8.5_FicherosEnOtrasCarpetas.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ejercicios_PDF_CSharp/8.4_VerArcivosEnDirectorio.1/obj/",
+        "outputPath": "/workspaces/ejercicios_PDF_CSharp/8.5_FicherosEnOtrasCarpetas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
