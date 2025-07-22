@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/bin/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.pdb
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/refint/8.4_VerArchivosEnDirectorio_ConArray.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.pdb
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/8.4_VerArchivosEnDirectorio_ConArray.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_VerArchivosEnDirectorio_ConArray/obj/Debug/net8.0/ref/8.4_VerArchivosEnDirectorio_ConArray.dll
