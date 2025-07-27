@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/bin/Debug/net8.0/8.6_SaberSiUnFicheroExiste
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/bin/Debug/net8.0/8.6_SaberSiUnFicheroExiste.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/bin/Debug/net8.0/8.6_SaberSiUnFicheroExiste.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/bin/Debug/net8.0/8.6_SaberSiUnFicheroExiste.dll
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/bin/Debug/net8.0/8.6_SaberSiUnFicheroExiste.pdb
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/8.6_SaberSiUnFicheroExiste.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/8.6_SaberSiUnFicheroExiste.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/8.6_SaberSiUnFicheroExiste.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/8.6_SaberSiUnFicheroExiste.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/8.6_SaberSiUnFicheroExiste.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/8.6_SaberSiUnFicheroExiste.dll
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/refint/8.6_SaberSiUnFicheroExiste.dll
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/8.6_SaberSiUnFicheroExiste.pdb
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/8.6_SaberSiUnFicheroExiste.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.6_SaberSiUnFicheroExiste/obj/Debug/net8.0/ref/8.6_SaberSiUnFicheroExiste.dll
