@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5110_parametros_y_valor_de_retorno_de_main")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67219a4d3d8831825996e62df5dbd99d2c3257ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b8a88b0e2b764a02bb8516a2ad21c8115133a66")]
 [assembly: System.Reflection.AssemblyProductAttribute("5110_parametros_y_valor_de_retorno_de_main")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5110_parametros_y_valor_de_retorno_de_main")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
