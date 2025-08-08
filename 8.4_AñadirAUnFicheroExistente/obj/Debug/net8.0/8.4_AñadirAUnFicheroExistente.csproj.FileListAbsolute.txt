@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/8.4_AñadirAUnFicheroExistente.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/8.4_AñadirAUnFicheroExistente.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/8.4_AñadirAUnFicheroExistente.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/8.4_AñadirAUnFicheroExistente.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/8.4_AñadirAUnFicheroExistente.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/bin/Debug/net8.0/8.4_AñadirAUnFicheroExistente
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/bin/Debug/net8.0/8.4_AñadirAUnFicheroExistente.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/bin/Debug/net8.0/8.4_AñadirAUnFicheroExistente.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/bin/Debug/net8.0/8.4_AñadirAUnFicheroExistente.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/bin/Debug/net8.0/8.4_AñadirAUnFicheroExistente.pdb
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/8.4_AñadirAUnFicheroExistente.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/refint/8.4_AñadirAUnFicheroExistente.dll
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/8.4_AñadirAUnFicheroExistente.pdb
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/8.4_AñadirAUnFicheroExistente.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.4_AñadirAUnFicheroExistente/obj/Debug/net8.0/ref/8.4_AñadirAUnFicheroExistente.dll

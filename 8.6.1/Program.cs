@@ -30,13 +30,13 @@ public class CrearArchivo
 
         do
         {
-
             if (File.Exists(nombreArchivo))
             {
                 Console.WriteLine("Este archivo ya existe");
                 using (StreamWriter archivo = new StreamWriter(nombreArchivo, true))
                 {
                     Console.WriteLine("Añade un texto o escribe \"fin\" para terminar");
+                    
                     texto = Console.ReadLine();
                     if (texto != "fin")
                         archivo.WriteLine(texto);

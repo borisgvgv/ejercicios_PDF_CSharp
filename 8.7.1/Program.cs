@@ -28,34 +28,62 @@ public class CrearArchivo
 
         if (File.Exists(nombreArchivo))
         {
-            Console.WriteLine("Este Archivo ya existe");
-            Console.WriteLine("Añade contenido al archivo o escribe \"fin\" para salir");
-            string texto;
-            do
+            try
             {
-                using (StreamWriter archivo = new StreamWriter(nombreArchivo, true))
-                {
-                    texto = Console.ReadLine();
-                    if (texto != "fin")
-                        archivo.WriteLine(texto);
-                }
-
-            } while (texto != "fin");
-        }
-        else
-        {
-
-            using (StreamWriter archivo = new StreamWriter(nombreArchivo))
-            {
+                Console.WriteLine("Este Archivo ya existe");
+                Console.WriteLine("Añade contenido al archivo o escribe \"fin\" para salir");
                 string texto;
                 do
                 {
-                    texto = Console.ReadLine();
-                    if (texto != "fin")
-                        archivo.WriteLine(texto);
+                    using (StreamWriter archivo = new StreamWriter(nombreArchivo, true))
+                    {
+
+                        texto = Console.ReadLine();
+                        if (texto != "fin")
+                            archivo.WriteLine(texto);
+                    }
 
                 } while (texto != "fin");
 
+            }
+            catch (PathTooLongException e)
+            {
+                Console.WriteLine("Nombre demasiado largo!");
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine("No se ha podido escribir!");
+                Console.WriteLine("El error exacto es: {0}", e.Message);
+            }
+
+        }
+        else
+        {
+            try
+            {
+
+                using (StreamWriter archivo = new StreamWriter(nombreArchivo))
+                {
+                    string texto;
+                    do
+                    {
+                        texto = Console.ReadLine();
+                        if (texto != "fin")
+                            archivo.WriteLine(texto);
+
+                    } while (texto != "fin");
+
+                }
+
+            }
+            catch (PathTooLongException e)
+            {
+                Console.WriteLine("Nombre demasiado largo!");
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine("No se ha podido escribir!");
+                Console.WriteLine("El error exacto es: {0}", e.Message);
             }
 
         }
@@ -86,42 +114,150 @@ public class LeerArchivo
     }
 }
 
-public class TransferirArchivo
+public class TransferirMinusculas
 {
     protected string linea;
-    public TransferirArchivo()
+    protected string[] lineas = new string[1000000];
+    protected int cantidad = 0;
+    protected string lineaDestino;
+    protected string archivoOrigen;
+    protected string archivoDestino;
+    protected bool existe = false;
+
+    public TransferirMinusculas()
     {
-        Console.Write("Archivo de origen: ");
-        string archivoOrigen = Console.ReadLine();
-        archivoOrigen = archivoOrigen.ToLower() + ".txt";
-
-        Console.Write("Archivo de destino: ");
-        string archivoDestino = Console.ReadLine();
-        archivoDestino = archivoDestino.ToLower() + ".txt";
-
-        if (File.Exists(archivoOrigen))
+        do
         {
-            using (StreamReader leerArchivo = new StreamReader(archivoOrigen))
-            {
-                do
-                {
-                    linea = leerArchivo.ReadLine();
-                    if (linea != null)
-                        linea = linea.ToUpper();
+            Console.Write("Archivo de origen: ");
+            archivoOrigen = Console.ReadLine();
+            archivoOrigen = archivoOrigen.ToLower() + ".txt";
 
-                    using (StreamWriter transferirArchivo = new StreamWriter(archivoDestino, true))
-                    {
-                        transferirArchivo.WriteLine(linea);
-                    }
-                } while (linea != null);
+            if (File.Exists(archivoOrigen))
+            {
+                existe = true;
+                Console.Write("Archivo de destino: ");
+                archivoDestino = Console.ReadLine();
+                archivoDestino = archivoDestino.ToLower() + ".txt";
+            }
+            else
+            {
+                Console.WriteLine("Este archivo no esxiste");
+                Console.WriteLine("Debes elejir un archivo existente");
+            }
+
+        } while (!existe);
+
+        using (StreamReader leerArchivo = new StreamReader(archivoOrigen))
+        {
+            do
+            {
+                linea = leerArchivo.ReadLine();
+                if (linea != null)
+                {
+                    lineas[cantidad] = linea.ToLower();
+                    cantidad++;
+                }
+            } while (linea != null);
+
+            using (StreamWriter transferirArchivo = new StreamWriter(archivoDestino))
+            {
+                for (int i = 0; i < cantidad; i++)
+                {
+                    lineaDestino = lineas[i];
+                    transferirArchivo.WriteLine(lineaDestino);
+                }
             }
         }
-        else
+    }
+}
+
+public class TransferirMayusculas
+{
+    protected string linea;
+    protected string[] lineas = new string[1000000];
+    protected int cantidad = 0;
+    protected string lineaDestino;
+    protected string archivoOrigen;
+    protected string archivoDestino;
+    protected bool existe = false;
+
+    public TransferirMayusculas()
+    {
+        do
         {
-            Console.WriteLine("El archivo de origen indicado no existe");
+            Console.Write("Archivo de origen: ");
+            archivoOrigen = Console.ReadLine();
+            archivoOrigen = archivoOrigen.ToLower() + ".txt";
+
+            if (File.Exists(archivoOrigen))
+            {
+                existe = true;
+                Console.Write("Archivo de destino: ");
+                archivoDestino = Console.ReadLine();
+                archivoDestino = archivoDestino.ToLower() + ".txt";
+            }
+            else
+            {
+                Console.WriteLine("Este archivo no esxiste");
+                Console.WriteLine("Debes elejir un archivo existente");
+            }
+
+        } while (!existe);
+
+        using (StreamReader leerArchivo = new StreamReader(archivoOrigen))
+        {
+            do
+            {
+                linea = leerArchivo.ReadLine();
+                if (linea != null)
+                {
+                    lineas[cantidad] = linea.ToUpper();
+                    cantidad++;
+                }
+            } while (linea != null);
+
+            using (StreamWriter transferirArchivo = new StreamWriter(archivoDestino))
+            {
+                for (int i = 0; i < cantidad; i++)
+                {
+                    lineaDestino = lineas[i];
+                    transferirArchivo.WriteLine(lineaDestino);
+                }
+            }
         }
+    }
+}
 
 
+public class TransferirArchivo
+{
+    protected bool salir = false;
+    protected byte opcion;
+    public TransferirArchivo()
+    {
+        do
+        {
+            System.Console.WriteLine("1- Transferir texto en minúsculas");
+            System.Console.WriteLine("2- Transferir texto en mayúsculas");
+            opcion = Convert.ToByte(Console.ReadLine());
+            Console.Clear();
+
+            switch (opcion)
+            {
+                case 1:
+                    TransferirMinusculas transferirMinusculas = new TransferirMinusculas();
+                    salir = true;
+                    break;
+                case 2:
+                    TransferirMayusculas transferirMayusculas = new TransferirMayusculas();
+                    salir = true;
+                    break;
+                default:
+                    System.Console.WriteLine("Opción incorrecta");
+                    break;
+            }
+
+        } while (!salir);
 
     }
 }

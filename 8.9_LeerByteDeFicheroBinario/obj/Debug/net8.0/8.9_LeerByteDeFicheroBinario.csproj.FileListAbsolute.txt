@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/bin/Debug/net8.0/8.9_LeerByteDeFicheroBinario
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/bin/Debug/net8.0/8.9_LeerByteDeFicheroBinario.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/bin/Debug/net8.0/8.9_LeerByteDeFicheroBinario.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/bin/Debug/net8.0/8.9_LeerByteDeFicheroBinario.dll
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/bin/Debug/net8.0/8.9_LeerByteDeFicheroBinario.pdb
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/8.9_LeerByteDeFicheroBinario.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/8.9_LeerByteDeFicheroBinario.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/8.9_LeerByteDeFicheroBinario.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/8.9_LeerByteDeFicheroBinario.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/8.9_LeerByteDeFicheroBinario.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/8.9_LeerByteDeFicheroBinario.dll
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/refint/8.9_LeerByteDeFicheroBinario.dll
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/8.9_LeerByteDeFicheroBinario.pdb
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/8.9_LeerByteDeFicheroBinario.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.9_LeerByteDeFicheroBinario/obj/Debug/net8.0/ref/8.9_LeerByteDeFicheroBinario.dll
