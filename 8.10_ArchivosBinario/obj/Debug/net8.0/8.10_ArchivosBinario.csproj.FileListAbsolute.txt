@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/bin/Debug/net8.0/8.10_ArchivosBinario
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/bin/Debug/net8.0/8.10_ArchivosBinario.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/bin/Debug/net8.0/8.10_ArchivosBinario.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/bin/Debug/net8.0/8.10_ArchivosBinario.dll
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/bin/Debug/net8.0/8.10_ArchivosBinario.pdb
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/8.10_ArchivosBinario.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/8.10_ArchivosBinario.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/8.10_ArchivosBinario.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/8.10_ArchivosBinario.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/8.10_ArchivosBinario.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/8.10_ArchivosBinario.dll
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/refint/8.10_ArchivosBinario.dll
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/8.10_ArchivosBinario.pdb
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/8.10_ArchivosBinario.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.10_ArchivosBinario/obj/Debug/net8.0/ref/8.10_ArchivosBinario.dll

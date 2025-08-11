@@ -1,0 +1,15 @@
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/bin/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/bin/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.deps.json
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/bin/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.runtimeconfig.json
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/bin/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.dll
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/bin/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.pdb
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.AssemblyInfoInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.AssemblyInfo.cs
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.sourcelink.json
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.dll
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/refint/8.11_LeerBloquesDeDatosDeUnFichero.dll
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.pdb
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/8.11_LeerBloquesDeDatosDeUnFichero.genruntimeconfig.cache
+/workspaces/ejercicios_PDF_CSharp/8.11_LeerBloquesDeDatosDeUnFichero/obj/Debug/net8.0/ref/8.11_LeerBloquesDeDatosDeUnFichero.dll
