@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6240_usando_Array.Copy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bfbf26c4ade0bfbed22c0e39a15820892c38a88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78e73b4887eed15a35b7ede29b104e7c444ad079")]
 [assembly: System.Reflection.AssemblyProductAttribute("6240_usando_Array.Copy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6240_usando_Array.Copy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

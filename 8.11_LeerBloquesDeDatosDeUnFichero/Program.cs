@@ -19,8 +19,14 @@ public class Ejemplo_08_11a
 {
     public static void Main()
     {
+        string nombreArchivo;
+        string formato;
+
         Console.WriteLine("Introduzca el nombre del fichero:");
-        string nombreArchivo = Console.ReadLine();
+        nombreArchivo = Console.ReadLine();
+        Console.WriteLine("Indica el formato de tu archivo");
+        formato = Console.ReadLine();
+        nombreArchivo = nombreArchivo.ToLower() + "." + formato;
 
         if (!File.Exists(nombreArchivo))
         {
@@ -33,8 +39,8 @@ public class Ejemplo_08_11a
                 if (opcion == 'y')
                 {
                     Console.WriteLine("Indica el formato de tu archivo");
-                    string formato = Console.ReadLine();
-                    nombreArchivo = nombreArchivo.ToLower() + formato;
+                    formato = Console.ReadLine();
+                    nombreArchivo = nombreArchivo.ToLower() + "." + formato;
 
                     using (BinaryWriter archivoBinario = new BinaryWriter(File.Open(nombreArchivo, FileMode.Create)))
                     {
@@ -57,7 +63,7 @@ public class Ejemplo_08_11a
                 }
                 else
                 {
-                    Console.WriteLine("Opción incorecta");
+                    Console.WriteLine("Opción incorrecta");
                 }
             } while (!salir);
 
@@ -75,9 +81,10 @@ public class Ejemplo_08_11a
                     Console.WriteLine("No se han podido leer todos los datos!");
                 else
                 {
+
                     Console.WriteLine("El primer byte leído es {0}", datos[0]);
                     Console.WriteLine("El tercero es {0}", datos[2]);
-                    
+
                     /*
                     El archivo que estás leyendo parece ser binario 
                     (probablemente un ejecutable o similar) — de hecho, 
@@ -95,6 +102,7 @@ public class Ejemplo_08_11a
                      en la posición cero haya una M; algunos editores saltan bytes de control o te muestran 
                      la parte interpretada como texto.
                     */
+
                 }
             }
         }
